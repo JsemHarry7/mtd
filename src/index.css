@@ -1,0 +1,350 @@
+@import "tailwindcss";
+
+/* ---------- Design tokens — radically different from rep ----------
+ *
+ * Palette: warm parchment cream + ink + sage green. Evokes paper,
+ * library, manuscripts. Cool slate + navy + terracotta of rep is
+ * deliberately NOT here. Only the typography system (mono / sans /
+ * serif role split) is shared.
+ *
+ * Surface ladder is INVERTED relative to rep: surface-inset is the
+ * DEEPER cream (a sunken / older paper page), surface-elev is the
+ * LIGHTER cream (a fresh page on top). Cards lift up by going lighter
+ * here, not darker.
+ */
+@theme {
+  /* ---- Light (default) — clean off-white, cobalt accent ----
+   * Fresh & modern: near-white surfaces, deep ink, electric cobalt as
+   * the single bold color. Reads as "ink on paper" — modern study app,
+   * not vintage manuscript. */
+  --color-surface: #fafaf9;
+  --color-surface-elev: #ffffff;
+  --color-surface-inset: #f1f1ef;
+
+  --color-line: #e4e4e3;
+  --color-line-strong: #a8a8a3;
+
+  --color-ink: #0a0a0b;
+  --color-ink-dim: #3f3f44;
+  --color-ink-muted: #74747a;
+
+  --color-accent: #2563eb;
+  --color-accent-fg: #ffffff;
+
+  --color-ok: #15803d;
+  --color-bad: #b91c1c;
+
+  /* fonts — UNCHANGED from rep (same design language) */
+  --font-mono: "JetBrains Mono", ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-serif: "Instrument Serif", "Iowan Old Style", Georgia, serif;
+
+  --radius-sm: 2px;
+  --radius-md: 4px;
+  --radius-lg: 8px;
+}
+
+:root {
+  color-scheme: light;
+}
+
+/* ---- Dark — cool charcoal, lifted cobalt ---- */
+:root[data-theme="dark"] {
+  color-scheme: dark;
+
+  --color-surface: #0a0a0c;
+  --color-surface-elev: #17171a;
+  --color-surface-inset: #050507;
+
+  --color-line: #27272a;
+  --color-line-strong: #52525b;
+
+  --color-ink: #fafafa;
+  --color-ink-dim: #a1a1a6;
+  --color-ink-muted: #6e6e74;
+
+  --color-accent: #60a5fa;
+  --color-accent-fg: #0a0a0c;
+
+  --color-ok: #4ade80;
+  --color-bad: #f87171;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+  margin: 0;
+}
+
+body {
+  background: var(--color-surface);
+  color: var(--color-ink);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  overscroll-behavior: none;
+  transition:
+    background-color 120ms ease,
+    color 120ms ease;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+::selection {
+  background: var(--color-accent);
+  color: var(--color-accent-fg);
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-line);
+  border-radius: var(--radius-sm);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-line-strong);
+}
+
+*:focus-visible {
+  outline: 1.5px solid var(--color-accent);
+  outline-offset: 3px;
+}
+
+button,
+[role="button"] {
+  cursor: pointer;
+}
+button:disabled {
+  cursor: not-allowed;
+  opacity: 0.45;
+}
+
+@utility hairline {
+  border: 1px solid var(--color-line);
+}
+
+@utility hairline-strong {
+  border: 1px solid var(--color-line-strong);
+}
+
+@utility display {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  letter-spacing: -0.018em;
+  line-height: 1;
+}
+
+@utility wordmark {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-weight: 400;
+  letter-spacing: -0.025em;
+  line-height: 1;
+}
+
+@utility data {
+  font-family: var(--font-mono);
+  font-variant-numeric: tabular-nums;
+  font-feature-settings: "calt" 0;
+}
+
+/* ---------- Prose (rendered note HTML) — magazine-style reading column ---------- */
+.prose {
+  font-family: var(--font-sans);
+  font-size: 1.0625rem;
+  line-height: 1.7;
+  color: var(--color-ink);
+  max-width: 36rem;
+}
+.prose h2,
+.prose h3,
+.prose h4 {
+  font-family: var(--font-serif);
+  font-weight: 400;
+  letter-spacing: -0.02em;
+  color: var(--color-ink);
+  margin-top: 2.2em;
+  margin-bottom: 0.5em;
+  line-height: 1.12;
+}
+.prose h2 {
+  font-size: 2.1rem;
+}
+.prose h2::before {
+  content: "§";
+  display: inline-block;
+  margin-right: 0.45em;
+  color: var(--color-accent);
+  font-family: var(--font-serif);
+  font-style: italic;
+  opacity: 0.85;
+}
+.prose h3 {
+  font-size: 1.55rem;
+  font-style: italic;
+  color: var(--color-ink-dim);
+}
+.prose h4 {
+  font-size: 1.25rem;
+  font-style: italic;
+  color: var(--color-ink-dim);
+}
+.prose p {
+  margin: 1em 0;
+}
+.prose a {
+  color: var(--color-ink);
+  text-decoration: underline;
+  text-decoration-color: var(--color-accent);
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 3px;
+}
+.prose a:hover {
+  color: var(--color-accent);
+}
+.prose ul,
+.prose ol {
+  margin: 1em 0;
+  padding-left: 1.4em;
+}
+.prose ul {
+  list-style: none;
+  padding-left: 1.2em;
+}
+.prose ul > li {
+  position: relative;
+}
+.prose ul > li::before {
+  content: "—";
+  position: absolute;
+  left: -1.2em;
+  color: var(--color-accent);
+  font-family: var(--font-mono);
+}
+.prose ol {
+  list-style-type: none;
+  counter-reset: prose-counter;
+  padding-left: 1.6em;
+}
+.prose ol > li {
+  position: relative;
+  counter-increment: prose-counter;
+}
+.prose ol > li::before {
+  content: counter(prose-counter, decimal-leading-zero);
+  position: absolute;
+  left: -1.8em;
+  top: 0.05em;
+  color: var(--color-accent);
+  font-family: var(--font-mono);
+  font-size: 0.78em;
+  font-variant-numeric: tabular-nums;
+}
+.prose li {
+  margin: 0.3em 0;
+}
+.prose code {
+  font-family: var(--font-mono);
+  font-size: 0.88em;
+  background: var(--color-surface-inset);
+  padding: 0.1em 0.35em;
+  border-radius: var(--radius-sm);
+}
+.prose pre {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  background: var(--color-surface-inset);
+  border-left: 3px solid var(--color-accent);
+  border-radius: 0;
+  padding: 1em 1.25em;
+  overflow-x: auto;
+  line-height: 1.55;
+  margin: 1.5em 0;
+}
+.prose pre code {
+  background: transparent;
+  padding: 0;
+}
+.prose blockquote {
+  font-family: var(--font-serif);
+  font-style: italic;
+  font-size: 1.25em;
+  line-height: 1.45;
+  border: 0;
+  padding: 0.3em 0;
+  margin: 1.5em 0;
+  color: var(--color-ink-dim);
+  position: relative;
+  padding-left: 1.5em;
+}
+.prose blockquote::before {
+  content: "“";
+  position: absolute;
+  left: 0;
+  top: 0.05em;
+  font-size: 2.2em;
+  line-height: 1;
+  color: var(--color-accent);
+  opacity: 0.55;
+}
+.prose hr {
+  border: 0;
+  text-align: center;
+  margin: 2.5em 0;
+}
+.prose hr::after {
+  content: "❦";
+  color: var(--color-accent);
+  font-size: 1.2em;
+  opacity: 0.7;
+}
+.prose table {
+  border-collapse: collapse;
+  margin: 1.5em 0;
+  width: 100%;
+  font-size: 0.95em;
+}
+.prose th,
+.prose td {
+  border-bottom: 1px solid var(--color-line);
+  padding: 0.65em 0.9em;
+  text-align: left;
+}
+.prose th {
+  font-family: var(--font-mono);
+  font-size: 0.78em;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-ink-muted);
+  border-bottom-color: var(--color-line-strong);
+}
+
+.prose .heading-anchor {
+  color: var(--color-ink-muted);
+  text-decoration: none;
+  margin-left: 0.35em;
+  opacity: 0;
+  transition: opacity 120ms ease;
+  font-weight: 400;
+}
+.prose h2:hover .heading-anchor,
+.prose h3:hover .heading-anchor,
+.prose h4:hover .heading-anchor {
+  opacity: 0.6;
+}

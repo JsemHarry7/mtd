@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <style>
+    .bg { fill: #fafaf9; }
+    .fg { fill: #2563eb; }
+    @media (prefers-color-scheme: dark) {
+      .bg { fill: #0a0a0c; }
+      .fg { fill: #60a5fa; }
+    }
+  </style>
+  <rect class="bg" width="64" height="64" rx="8" />
+  <text class="fg"
+        x="32" y="50"
+        font-family="Iowan Old Style, Apple Garamond, Baskerville, Georgia, serif"
+        font-style="italic"
+        font-size="56"
+        font-weight="400"
+        text-anchor="middle"
+        letter-spacing="-0.04em">m</text>
+</svg>
