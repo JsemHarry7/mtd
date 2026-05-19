@@ -6,7 +6,7 @@ tags: ["web", "aspnet", "razor", "c-sharp", "http", "frontend"]
 share: public
 status: review
 speakingTime: 12
-updated: "2026-05-17"
+updated: "2026-05-19"
 ---
 
 > **Cíl:** za 30 min u PC vytvořit/upravit Razor Pages aplikaci podle zadání + 15 min defense s komisí.

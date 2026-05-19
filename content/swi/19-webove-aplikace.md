@@ -6,7 +6,7 @@ tags: ["web", "http", "frontend", "architektura"]
 share: public
 status: review
 speakingTime: 12
-updated: "2026-05-17"
+updated: "2026-05-19"
 ---
 
 ## Co řeknu jako první (30 s úvod)

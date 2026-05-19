@@ -6,7 +6,7 @@ tags: ["web", "aspnet", "c-sharp", "razor", "http", "architektura"]
 share: public
 status: review
 speakingTime: 12
-updated: "2026-05-17"
+updated: "2026-05-19"
 ---
 
 > **Cíl:** umět o tom mluvit 10-15 min souvisle, k tomu odpovědět na 2-3 follow-up otázky komise.

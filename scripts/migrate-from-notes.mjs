@@ -26,7 +26,7 @@ const SVATAK = resolve(ROOT, "..");
 const NOTES_DIR = join(SVATAK, "_notes");
 const CJL_DIR = join(SVATAK, "_cjl", "rozbory");
 const TARGET_DIR = join(ROOT, "content");
-const TODAY = "2026-05-17";
+const TODAY = new Date().toISOString().slice(0, 10);
 
 const log = {
   info: (...a) => console.log("[migrate]", ...a),
@@ -48,7 +48,12 @@ const TAG_MAPS = {
     "04-datove-typy-promenne.md": { title: "Datové typy a proměnné", tags: ["datové-typy", "c-sharp", "oop", "programování"], time: 8 },
     "05-navrhove-vzory.md": { title: "Návrhové vzory (Design Patterns)", tags: ["oop", "design-patterns", "architektura", "c-sharp", "programování"], time: 12 },
     "06-chyby-testovani-ladeni.md": { title: "Chyby, testování a ladění", tags: ["testování", "výjimky", "debugging", "c-sharp", "programování"], time: 12 },
+    "07-sifrovani-kodovani.md": { title: "Šifrování a kódování", tags: ["kryptografie", "bezpečnost", "kódování", "programování"], time: 12 },
+    "08-kryptosystemy.md": { title: "Kryptosystémy", tags: ["kryptografie", "bezpečnost", "tls", "programování", "architektura"], time: 12 },
     "09-oop.md": { title: "Objektové programování", tags: ["oop", "c-sharp", "dědičnost", "polymorfismus", "abstrakce", "programování"], time: 12 },
+    "10-databaze.md": { title: "Databáze", tags: ["databáze", "sql", "architektura", "programování"], time: 12 },
+    "11-normalizace.md": { title: "Normalizace databáze", tags: ["databáze", "sql", "architektura"], time: 12 },
+    "12-jazyk-sql.md": { title: "Jazyk SQL", tags: ["databáze", "sql", "programování"], time: 12 },
     "13-internet.md": { title: "Internet", tags: ["web", "http", "sítě"], time: 8 },
     "14-navrh-obsahoveho-webu.md": { title: "Návrh a tvorba obsahového webu", tags: ["web", "frontend", "ux", "responzivita"], time: 8 },
     "15-webova-stranka.md": { title: "Webová stránka (HTML)", tags: ["web", "html", "frontend", "sémantika"], time: 8 },
@@ -58,6 +63,8 @@ const TAG_MAPS = {
     "20-overovani-identity.md": { title: "Ověřování identity v prostředí internetu", tags: ["web", "http", "bezpečnost", "autentizace"], time: 12 },
     "21-restful.md": { title: "RESTful", tags: ["web", "rest", "api", "http", "architektura"], time: 8 },
     "22-aspnet.md": { title: "ASP.NET", tags: ["web", "aspnet", "c-sharp", "razor", "http", "architektura"], time: 12 },
+    "23-eventy-edp.md": { title: "Událostmi řízené programování", tags: ["oop", "c-sharp", "architektura", "programování"], time: 12 },
+    "24-programovaci-jazyky.md": { title: "Programovací jazyky", tags: ["programování", "c-sharp", "architektura"], time: 12 },
   },
   dat: {
     "01-html5-a-semantika.md": { title: "HTML5 a sémantika", tags: ["web", "html", "frontend", "sémantika"], time: 12 },
@@ -72,6 +79,8 @@ const TAG_MAPS = {
     "10-podprogramy-a-lambda.md": { title: "Podprogramy a lambda funkce", tags: ["programování", "c-sharp"], time: 8 },
     "11-kolekce.md": { title: "Kolekce: pole, zásobník, fronta, slovník", tags: ["datové-struktury", "c-sharp", "oop", "programování"], time: 12 },
     "14-git-github.md": { title: "Verzovací systémy: Git a GitHub", tags: ["programování", "verzování", "workflow"], time: 12 },
+    "15-er-model.md": { title: "ER model a návrh databáze", tags: ["databáze", "sql", "architektura"], time: 12 },
+    "16-sql-vyber.md": { title: "SQL výběr a filtrování dat", tags: ["databáze", "sql", "programování"], time: 12 },
     "17-rest-api.md": { title: "REST API v ASP.NET Core", tags: ["web", "rest", "api", "aspnet", "c-sharp", "http", "architektura"], time: 12 },
     "18-razor-pages.md": { title: "Razor Pages — zpracování požadavku", tags: ["web", "aspnet", "razor", "c-sharp", "http", "frontend"], time: 12 },
     "19-tag-helpers.md": { title: "ASP.NET Tag Helpers a formuláře", tags: ["web", "aspnet", "razor", "c-sharp", "http", "frontend"], time: 12 },
@@ -102,11 +111,13 @@ const TAG_MAPS = {
 
 /* ---------- transformations ---------- */
 
-/** Strip leading `# ...` heading, optional CJL-style "Originální název" line,
- *  optional `>` blockquote, first `---`. */
+/** Strip leading `# ...` heading, optional CJL "Originální název" line,
+ *  optional `>` blockquote, first `---`. Plus any in-body `## 🎯 LEAKED ...`
+ *  sections (these reference leaked exam materials in `_materials/` which
+ *  isn't in mtd — stripping them publishes only the legit study content). */
 function stripPreamble(raw) {
   let s = raw;
-  // 1) leading `# ...` first heading (whatever its shape)
+  // 1) leading `# ...` first heading
   s = s.replace(/^#\s+[^\n]*\n+/, "");
   // 2) optional CJL "Originální název" line
   s = s.replace(/^\*\*Originální název:\*\*[^\n]*\n+/, "");
@@ -114,6 +125,11 @@ function stripPreamble(raw) {
   s = s.replace(/^(?:>[^\n]*\n)+\s*\n/, "");
   // 4) first `---\n` separator
   s = s.replace(/^---\s*\n+/, "");
+  // 5) any `## 🎯 LEAKED ...` block up to (and including) next `---`
+  s = s.replace(/^## 🎯 LEAKED[\s\S]*?\n---\s*\n+/gm, "");
+  // 6) image references into `_materials/` — those files live in svatak only,
+  //    not in mtd, so the links would be broken in publish.
+  s = s.replace(/^!\[[^\]]*\]\(<?[^)>\n]*_materials[^)>\n]*>?\)\s*\n?/gm, "");
   return s.trimStart();
 }
 

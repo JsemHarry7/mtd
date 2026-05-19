@@ -6,7 +6,7 @@ tags: ["meziválečná", "americká", "román", "společnost", "přátelství"]
 share: public
 status: review
 speakingTime: 10
-updated: "2026-05-17"
+updated: "2026-05-19"
 ---
 
 **Originální název:** Of Mice and Men

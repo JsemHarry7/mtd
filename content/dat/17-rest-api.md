@@ -6,7 +6,7 @@ tags: ["web", "rest", "api", "aspnet", "c-sharp", "http", "architektura"]
 share: public
 status: review
 speakingTime: 12
-updated: "2026-05-17"
+updated: "2026-05-19"
 ---
 
 > **Cíl:** za 30 min u PC implementovat Web API controller s 4-8 endpointy + 15 min defense.

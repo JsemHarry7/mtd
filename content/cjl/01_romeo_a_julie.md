@@ -6,7 +6,7 @@ tags: ["renesance", "anglická", "drama", "tragédie", "láska"]
 share: public
 status: review
 speakingTime: 10
-updated: "2026-05-17"
+updated: "2026-05-19"
 ---
 
 ---
