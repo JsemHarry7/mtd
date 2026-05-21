@@ -6,7 +6,7 @@ tags: ["web", "aspnet", "razor", "c-sharp", "http", "frontend"]
 share: public
 status: review
 speakingTime: 12
-updated: "2026-05-19"
+updated: "2026-05-21"
 ---
 
 > **Cíl:** za 30 min u PC vytvořit/upravit Razor Pages aplikaci s formulářem + validací + víc handlery.

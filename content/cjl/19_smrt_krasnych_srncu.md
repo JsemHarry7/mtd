@@ -6,7 +6,7 @@ tags: ["poválečná", "česká", "povídky", "vzpomínky", "válka"]
 share: public
 status: review
 speakingTime: 10
-updated: "2026-05-19"
+updated: "2026-05-21"
 ---
 
 ---
@@ -49,8 +49,8 @@ updated: "2026-05-19"
 
 **Další zástupci:**
 - 📚 **Arnošt Lustig** — Modlitba pro Kateřinu Horovitzovou (1964), Démanty noci (1958), Noc a naděje (1958) — sám prošel Terezínem, Osvětimí, Buchenwaldem; klíčová česká holokaustová próza
-- 📚 **Michal Viewegh** — Báječná léta pod psa (1992), Výchova dívek v Čechách (1994) — autobiografický román o rodině v normalizaci, humor + hořkost
-- 📚 **Irena Dousková** — Hrdý Budžes (1998), Oněgin byl Rusák (2006) — dětská perspektiva v normalizačním Československu, tragikomická próza
+- 📚 **Bohumil Hrabal** — Postřižiny (1976), Slavnosti sněženek (1978) — lyrizovaná próza, humor a vzpomínka
+- 📚 **Josef Škvorecký** — Prima sezona (1975), Zbabělci (1958) — autobiografické a generační prózy
 
 ---
 
@@ -106,16 +106,16 @@ updated: "2026-05-19"
 - Celkově přibližně chronologické řazení povídek (od předválečného období k válce)
 
 **Části díla:**
-- Soubor **9 povídek**:
+- Původní vydání z roku 1971 tvoří **8 povídek**:
   1. **Nejdražší ve střední Evropě** — otcova vášeň pro rybaření
   2. **Ve službách Švédska** — otec jako obchodní cestující
   3. **Smrt krásných srnců** — titulní povídka, otec loví srnce pro rodinu
   4. **Kapři pro Wehrmacht** — otec ukrývá kapry před Němci
   5. **Jak jsme se střetli s Vlky** — rivalita s rodinou Vlků na rybníce
-  6. **Králíci s moudrýma očima** — příběh za války
-  7. **Běh Prahou** — sportovní motiv
-  8. **Otázka hmyzu vyřešena** — otcovy nápady
-  9. **Prase nebude** — válečné strádání a boj o obživu
+  6. **Otázka hmyzu vyřešena** — otcovy nápady
+  7. **Prase nebude!** — válečné strádání a boj o obživu
+  8. **Králíci s moudrýma očima** — bolestný závěr otcova života
+- Poznámka: s knihou bývá často spojována i povídka **Běh Prahou**, která byla původně cenzurně vyřazena a v některých pozdějších souborech se připojuje.
 
 ---
 
@@ -240,12 +240,15 @@ Neaplikuje se — jedná se o prozaické dílo.
 
 ## 14. Stručný děj / obsah
 
-Soubor deseti autobiografických povídek, v nichž **Ota Pavel** vzpomíná na své dětství, rodinu a zejména na svého otce **Leo Pavla** (Poppera).
+Soubor autobiografických povídek, v nichž **Ota Pavel** vzpomíná na své dětství, rodinu a zejména na svého otce **Lea Pavla** (Poppera).
 
-### Vybrané povídky:
+### Všechny povídky původního vydání:
 
 **Nejdražší ve střední Evropě**
 Otec Leo je vášnivý rybář. Koupí nejdražší rybářské potřeby ve střední Evropě — pruty, navijáky, mušky z Anglie. Rodina kvůli tomu strádá, ale otec je šťastný. Povídka zachycuje jeho nezdolné nadšení a maminčinu trpělivost.
+
+**Ve službách Švédska**
+Tatínek jako obchodní cestující firmy Elektrolux objíždí zákazníky, okouzluje lidi, improvizuje a spojuje obchod s osobním šarmem. Povídka je portrétem jeho podnikavosti, snivosti i komické velikášskosti.
 
 **Smrt krásných srnců** (titulní povídka)
 Za války, ještě před deportací otce a starších synů, rodina strádá hladem. Otec se rozhodne obstarat maso pro rodinu. S pomocí psa uloví srnce a maso přinese domů. Krásní srnci musí zemřít, aby rodina přežila. Název povídky symbolizuje střet krásy a nevinnosti s krutostí doby.
@@ -255,6 +258,20 @@ Němci zaberou otcův rybník a kapry chtějí pro Wehrmacht. Otec v noci tajně
 
 **Jak jsme se střetli s Vlky**
 Humorná povídka o rivalitě rodiny Pavlů s rodinou Vlků u rybníka. Obě rodiny soupeří o nejlepší místo k rybaření. Komická „válka" mezi sousedy.
+
+**Otázka hmyzu vyřešena**
+Tatínek přichází s dalším nápadem, jak něco zlepšit nebo zbohatnout, a groteskní podnikatelská iniciativa se střetá s realitou. Povídka rozvíjí komickou stránku otcovy povahy.
+
+**Prase nebude!**
+V době nedostatku rodina doufá v maso a zásoby, ale naděje se zhroutí. Povídka spojuje komiku každodennosti s tvrdou zkušeností protektorátního hladu a nejistoty.
+
+**Králíci s moudrýma očima**
+Pozdní, velmi dojemná povídka o tatínkově stáří, nemoci a blížícím se konci. Humor už ustupuje tichému loučení a vědomí ztráty.
+
+### Text mimo původní vydání:
+
+**Běh Prahou**
+Povídka o tatínkově politickém vystřízlivění po poválečných iluzích; byla původně cenzurně vyřazena a do některých pozdějších vydání či souborů se doplňuje.
 
 ### Celkové vyznění:
 Povídky zachycují **idylické dětství** přerušené **válkou a holocaustem**. Otec Leo je ústřední postavou — energický, vynalézavý, milující člověk, který se nevzdává ani v nejtěžších situacích. Příroda (řeka Berounka, ryby, les) je útočištěm a zdrojem síly. Tragédie války je přítomna, ale není popsána naturalisticky — je vyjádřena skrze jednoduché, emotivní obrazy.

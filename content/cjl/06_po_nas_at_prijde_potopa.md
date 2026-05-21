@@ -6,7 +6,7 @@ tags: ["dekadence", "česká", "poezie", "moderna"]
 share: public
 status: review
 speakingTime: 10
-updated: "2026-05-19"
+updated: "2026-05-21"
 ---
 
 ---
@@ -115,6 +115,41 @@ updated: "2026-05-19"
 - Sbírka se skládá z jednotlivých **básní** (krátkých lyrických textů)
 - Básně mají většinou pravidelnou strofickou stavbu (čtyřverší – kvarteta)
 - Některé básně mají charakter **písně**, jiné jsou spíše **úvahové/reflexivní**
+- Přehled básní ve sbírce:
+  - **Přetékající pohár** — obraz přetékajícího srdce a citového přebytku
+  - **Píseň dobrodruhova** — neklid, cizinectví a touha po dálkách
+  - **Přátelství duší** — citová a duchovní spřízněnost, ale i její nejistota
+  - **Puberta** — probouzející se sexualita a bolest neukojené touhy
+  - **Pozdrav rodnému kraji** — návrat v myšlenkách k domovu bez sentimentu
+  - **Kázání Spartakova** — sociální revolta a hlas vzbouřence
+  - **Reflexe** — sebereflexe, deziluze a pohled na vlastní život
+  - **Na divou montaň zřel jsem se zápalem** — okouzlení divokostí a romantickou pózou
+  - **Vzduchoplavec** — touha povznést se nad všednost a uniknout
+  - **Neděle** — nuda a dusivá prázdnota měšťáckého svátku
+  - **Bezcestí** — bezvýchodnost a ztráta životního směru
+  - **Po nás ať přijde potopa** — generační nihilismus a vzdor
+  - **To je teď celá moudrost moje** — rezignované životní krédo
+  - **Na sopha zeleném** — intimní, lehce ironická milostná miniatura
+  - **Jako ty polní rostliny** — prostota a přirozenost citu
+  - **Noc byla touhou přesycená** — smyslné, eroticky napjaté noční ladění
+  - **Demaskovaná láska** — odkouzlení a demytizace romantické lásky
+  - **Perspektiva** — budoucnost viděná bez iluzí
+  - **Záchvat nervósní** — nervní rozkolísanost a psychická tíseň
+  - **Pro klid své duše** — pokus utišit vnitřní neklid
+  - **Píseň** — jednoduchý písňový, melancholický text
+  - **Smuteční** — elegické ladění, blízkost smrti a zmaru
+  - **Vzpomínka** — návrat k minulému citu či zážitku
+  - **Rusá láska** — smyslná, tělesná a provokativní milostná báseň
+  - **Chiméra** — přelud, nedostižný sen a iluze
+  - **A přece zdráhám se** — vnitřní rozpor a nerozhodnost
+  - **Miluju severní nebe** — fascinace chladem, dálkou a samotou
+  - **Sentimentální žádosti** — ironizovaná citovost a drobná přání
+  - **Ztísněnosť** — úzkost a sevřenost duše
+  - **Blasphemie** — rouhavá provokace vůči Bohu a autoritám
+  - **Elegie** — zádumčivý, melancholický text o bolesti a ztrátě
+  - **Na dálném jihu snad** — snění o útěku do vzdálené krajiny
+  - **Náhle se zachvěje má duše** — náhlý citový otřes a znejistění
+  - **Epilog** — závěrečné shrnutí rezignace, ironie a smutku celé sbírky
 
 ---
 
@@ -257,6 +292,54 @@ Sbírka **Po nás ať přijde potopa!** nemá souvislý děj – je to soubor ly
 **Tulácký život:**
 - Touha po svobodě, odmítání usazenosti
 - Cesty, bezdomoví, chudoba
+
+### Stručná orientace po jednotlivých básních:
+
+**Úvodní a programové texty**
+- *Přetékající pohár* — obraz přetékajícího srdce, citové nadbytečnosti.
+- *Píseň dobrodruhova* — neklid a touha opustit cizí, nevlídný svět.
+- *Přátelství duší* — sen o hlubokém porozumění, ale i jeho nejistota.
+- *Po nás ať přijde potopa* — titulní generační gesto vzdoru a lhostejnosti.
+- *To je teď celá moudrost moje* — lapidární životní krédo bez iluzí.
+- *Epilog* — shrnutí nálady celé sbírky.
+
+**Milostné a erotické básně**
+- *Puberta* — bolestný nástup tělesnosti a touhy.
+- *Na sopha zeleném* — intimní interiérová milostná miniatura.
+- *Jako ty polní rostliny* — prostota a přirozenost citového vztahu.
+- *Noc byla touhou přesycená* — erotické noční napětí.
+- *Demaskovaná láska* — ironické stržení romantických iluzí.
+- *Rusá láska* — smyslná a tělesná podoba lásky.
+- *Vzpomínka* — návrat k dávnému citu.
+
+**Reflexivní, melancholické a úzkostné texty**
+- *Reflexe* — sebereflexe a deziluze.
+- *Bezcestí* — ztráta směru a bezvýchodnost.
+- *Perspektiva* — budoucnost bez naděje.
+- *Záchvat nervósní* — nervní a psychická rozkolísanost.
+- *Pro klid své duše* — snaha utišit neklid.
+- *Smuteční* — ztišené elegické ladění.
+- *Chiméra* — iluze a nedostižný sen.
+- *A přece zdráhám se* — nerozhodnost a vnitřní konflikt.
+- *Sentimentální žádosti* — ironizovaná citovost.
+- *Ztísněnosť* — úzkost a sevření.
+- *Elegie* — melancholická bolest.
+- *Náhle se zachvěje má duše* — náhlý citový otřes.
+
+**Společenské a vzdorné texty**
+- *Kázání Spartakova* — řeč vzbouřence, sociální vzdor.
+- *Neděle* — kritika měšťácké všednosti a nudy.
+- *Blasphemie* — rouhavá provokace proti autoritám a posvátnému.
+
+**Krajina, dálka, útěk**
+- *Pozdrav rodnému kraji* — domov viděný s odstupem.
+- *Na divou montaň zřel jsem se zápalem* — romantické okouzlení divokostí.
+- *Vzduchoplavec* — touha uniknout vzhůru.
+- *Miluju severní nebe* — přitažlivost chladu, dálky a samoty.
+- *Na dálném jihu snad* — snění o útěku do jiného světa.
+
+**Obecnější písňové texty**
+- *Píseň* — prostý písňový tvar, melancholické vyznění.
 
 ### Celkové vyznění:
 

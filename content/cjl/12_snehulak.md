@@ -6,7 +6,7 @@ tags: ["současná", "norská", "román", "detektivka", "smrt"]
 share: public
 status: review
 speakingTime: 10
-updated: "2026-05-19"
+updated: "2026-05-21"
 ---
 
 ---

@@ -6,7 +6,7 @@ tags: ["meziválečná", "německá", "román", "válka", "smrt"]
 share: public
 status: review
 speakingTime: 10
-updated: "2026-05-19"
+updated: "2026-05-21"
 ---
 
 **Originální název:** Im Westen nichts Neues

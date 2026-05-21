@@ -6,7 +6,7 @@ tags: ["datové-struktury", "c-sharp", "oop", "programování"]
 share: public
 status: review
 speakingTime: 12
-updated: "2026-05-19"
+updated: "2026-05-21"
 ---
 
 ## Co řeknu jako první (30 s úvod)

@@ -6,7 +6,7 @@ tags: ["romantismus", "česká", "poezie", "folklor", "smrt"]
 share: public
 status: review
 speakingTime: 10
-updated: "2026-05-19"
+updated: "2026-05-21"
 ---
 
 ---
@@ -85,7 +85,7 @@ updated: "2026-05-19"
 
 ## 6. Kompoziční výstavba
 
-- **Způsob řazení:** sbírka má **13 básní** (balad), uspořádaných **symetricky / rámcově**.
+- **Způsob řazení:** sbírka má **13 básní**, z nichž většina má baladický ráz, a je uspořádaná **symetricky / rámcově**.
 - **Rámcová kompozice:**
   - 1. báseň: **Kytice** (úvodní, rámcová)
   - 13. báseň: **Věštkyně** (závěrečná, rámcová)
@@ -104,7 +104,7 @@ updated: "2026-05-19"
   11. *Lilie* -- mrtvá dívka ožívá jako lilie
   12. *Dceřina kletba* -- dcera proklíná matku za špatnou výchovu
   13. *Věštkyně* -- proroctví o osudu českého národa
-- Každá balada má zpravidla **chronologický** postup s dramatickým vyvrcholením.
+- Většina básní má zpravidla **chronologický** postup s dramatickým vyvrcholením.
 
 ---
 
@@ -202,7 +202,7 @@ Postavy jsou **typizované**, odpovídají archetypům lidové slovesnosti:
 
 ## 14. Stručný děj / obsah
 
-Sbírka obsahuje **13 balad**. Stručný obsah klíčových básní:
+Sbírka obsahuje **13 básní**. Stručný obsah všech básní:
 
 ### Kytice (1.)
 Na hrobě zemřelé matky vyroste květ (mateřídouška). Její osiřelé děti ho trhají -- jako by k nim matka promlouvala z hrobu. Rámcová báseň -- symbol celé sbírky.
@@ -222,11 +222,23 @@ Král se zamiluje do Dorničky. Její zlá macecha a nevlastní sestra Dorničku
 ### Štědrý den (6.)
 Dvě dívky, Hana a Marie, se na Štědrý den dívají do budoucnosti proříznutím ledu na jezeře. Hana vidí svatbu, Marie pohřeb. Do roka se proroctví naplní -- Hana má svatbu, Marie umírá. Motiv: osud je nezvratný, lidé by neměli chtít znát budoucnost.
 
-### Vodník (9.)
-Vodník si vezme lidskou dívku a odvede ji pod jezero. Mají spolu dítě. Dívka prosí, aby ji vodník pustil navštívit matku. Vodník souhlasí pod podmínkou, že se vrátí do večera. Matka ji nepustí zpět. Rozzuřený vodník zabije dítě a hodí jeho hlavičku na práh. Jedna z nejtragičtějších balad -- motiv střetu dvou světů, beznadějné situace matky.
+### Holoubek (7.)
+Žena zavraždí muže, aby mohla žít s milencem. Hlas holoubka jí stále připomíná vinu, svědomí ji ničí a nakonec ji dovede k sebevraždě. Motiv: neumlčitelné svědomí a trest za zločin.
 
 ### Záhořovo lože (8.)
 Poutník jde do pekla, aby vykoupil svou duši. Cestou potká Záhoře -- loupežníka a vraha, který se bojí pekla. Poutník v pekle zjistí, jaký trest čeká Záhoře, a řekne mu to. Záhoř činí pokání -- stojí nehnutě na jednom místě stovky let, až z něj vyroste strom. Nakonec je vykoupen. Motiv: i nejhorší hříšník může být spasen pokáním.
+
+### Vodník (9.)
+Vodník si vezme lidskou dívku a odvede ji pod jezero. Mají spolu dítě. Dívka prosí, aby ji vodník pustil navštívit matku. Vodník souhlasí pod podmínkou, že se vrátí do večera. Matka ji nepustí zpět. Rozzuřený vodník zabije dítě a hodí jeho hlavičku na práh. Jedna z nejtragičtějších balad -- motiv střetu dvou světů, beznadějné situace matky.
+
+### Vrba (10.)
+Žena je tajemně spojena se starou vrbou -- její duše jako by sídlila v tomto stromu. Když muž nechá vrbu porazit, žena umírá. Motiv: magické propojení člověka a přírody.
+
+### Lilie (11.)
+Mrtvá dívka se po smrti promění v lilii a znovu ožívá díky lásce kralevice. Báseň spojuje čistotu, krásu a křehkost života s pohádkově laděným příběhem.
+
+### Dceřina kletba (12.)
+Zoufalá dcera, svedená a opuštěná, viní matku z vlastní zkázy a proklíná ji i sebe. Krátká, prudká báseň o vině, zoufalství a zpřetrhaných rodinných vazbách.
 
 ### Věštkyně (13.)
 Závěrečná báseň -- Věštkyně (Libuše) promlouvá k českému národu, předpovídá jeho slavnou budoucnost po letech útrap. Vlastenecký a nadějný závěr sbírky, rámcová báseň.

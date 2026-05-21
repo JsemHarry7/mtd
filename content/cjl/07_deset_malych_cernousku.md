@@ -6,7 +6,7 @@ tags: ["meziválečná", "anglická", "román", "detektivka", "smrt"]
 share: public
 status: review
 speakingTime: 10
-updated: "2026-05-19"
+updated: "2026-05-21"
 ---
 
 **Originální název:** And Then There Were None (Ten Little Niggers / Ten Little Indians)

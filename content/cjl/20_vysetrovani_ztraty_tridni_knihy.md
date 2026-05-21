@@ -6,7 +6,7 @@ tags: ["poválečná", "česká", "drama", "humor", "parodie"]
 share: public
 status: review
 speakingTime: 10
-updated: "2026-05-19"
+updated: "2026-05-21"
 ---
 
 ---
