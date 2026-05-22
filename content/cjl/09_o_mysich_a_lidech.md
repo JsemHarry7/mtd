@@ -27,12 +27,12 @@ updated: "2026-05-21"
 
 ### Další díla
 
-- **Hrozny hněvu** (1939) – osud rodiny Joadových během velké hospodářské krize; vrcholné dílo
-- **Na plechárně** (1945) – život na okraji společnosti v Monterey
-- **Na východ od ráje** (1952) – rodinná sága inspirovaná biblickým příběhem Kaina a Ábela
-- **Toulavý autobus** (1947)
-- **Pláň Tortilla** (1935) – humorný pohled na kalifornské paisanos
-- **Zima úzkosti** (1961)
+- **Hrozny hněvu** (1939) – Steinbeckovo vrcholné dílo, Pulitzerova cena 1940. Rodina Joadových je vyhnána z farmy v Oklahomě dust bowlem a bankou a vydá se na cestu do Kalifornie hledat práci a lepší život. Místo „zaslíbené země" však najde vykořisťování, hlad a smrt; jeden z nejmocnějších románů o Velké hospodářské krizi.
+- **Na plechárně** (*Cannery Row*, 1945) – mozaika postav z monterejské konzervárenské čtvrti během 30. let. Dobrácký biolog Doc, parta tuláků v čele s Macem a místní prostitutky utvářejí lyrické, humorné společenství outsiderů; oslava lidskosti na okraji společnosti.
+- **Na východ od ráje** (1952) – monumentální rodinná sága dvou generací rodin Trasků a Hamiltonů v kalifornském údolí Salinas. Inspirována biblickým příběhem o Kainovi a Ábelovi – bratrská žárlivost, dobro a zlo, svobodná vůle; Steinbeck považoval za své nejdůležitější dílo.
+- **Toulavý autobus** (1947) – autobus s různorodou skupinou cestujících uvízne během cesty z mexické pohraniční vesnice na povodněmi rozbité silnici v Kalifornii. Mikrosvět dvanácti pasažérů odhaluje jejich charaktery, touhy a slabosti; alegorie americké společnosti po 2. světové válce.
+- **Pláň Tortilla** (1935) – první komerčně úspěšný Steinbeckův román; humorný pohled na partu kalifornských paisanos (chudých mexicko-amerických přistěhovalců) v Monterey, kteří žijí v polorozpadlém domě a tráví dny pitím vína a malými dobrodružstvími. Inspirováno legendou o králi Artušovi a rytířích kulatého stolu.
+- **Zima úzkosti** (1961) – Steinbeckův poslední velký román. Ethan Hawley, potomek kdysi významné rodiny v Nové Anglii, pracuje jako prodavač v krámě dříve patřícím jeho předkům; pod tlakem rodiny a společnosti se rozhodne získat zpět svůj společenský status nepoctivě. Studie morálního úpadku americké střední třídy.
 
 ---
 
@@ -61,9 +61,9 @@ updated: "2026-05-21"
 
 ### Další zástupci
 
-- ✅ **Agatha Christie** – „Deset malých černoušků" (1939), „Vražda v Orient Expressu" (1934) – „královna detektivky", britský zlatý věk (na tvém seznamu)
-- 📚 **Ernest Hemingway** – „Stařec a moře" (1952), „Komu zvoní hrana" (1940), „Sbohem, armádo" (1929) – americká ztracená generace, Nobelova cena 1954
-- 📚 **Francis Scott Fitzgerald** – „Velký Gatsby" (1925) – ikona americké ztracené generace, kritika amerického snu
+- ✅ **Agatha Christie** – „Deset malých černoušků" (1939), „Vražda v Orient Expressu" (1934) – „královna detektivky" britského zlatého věku. *Deset malých černoušků* je nejprodávanější detektivka všech dob – deset cizinců je pozváno na izolovaný ostrov a postupně umírají podle dětské říkanky. *Vražda v Orient Expressu* je klasický Poirotův případ ve vlaku zaseknutém ve sněhu (na tvém seznamu).
+- 📚 **Ernest Hemingway** – „Stařec a moře" (1952), „Komu zvoní hrana" (1940), „Sbohem, armádo" (1929) – americká ztracená generace. Hemingwayův úsporný styl („iceberg theory") a hrdinové, kteří čelí osudu se stoickým klidem. *Stařec a moře* je novela o kubánském rybáři Santiagovi a obrovském marlínovi; přinesla Nobelovu cenu 1954.
+- 📚 **Francis Scott Fitzgerald** – „Velký Gatsby" (1925) – ikona americké ztracené generace a kritika amerického snu. Tajemný milionář Jay Gatsby pořádá ve své vile na Long Islandu okázalé večírky, aby získal zpět dávnou lásku Daisy Buchananovou. Jeho tragický pád ukazuje prázdnotu „roaring twenties" a zkázu mýtu o sebevytvořeném muži.
 
 ---
 

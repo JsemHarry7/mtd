@@ -26,13 +26,13 @@ updated: "2026-05-21"
 - Charakteristický styl: proud řeči (tzv. **pábení**), hovorový jazyk, humor, groteska, lyričnost
 
 **Další díla:**
-- **Perlička na dně** (1963) — povídky
-- **Pábitelé** (1964) — povídky
-- **Postřižiny** (1976) — novela
-- **Příliš hlučná samota** (1976, samizdat; oficiálně 1989) — novela
-- **Obsluhoval jsem anglického krále** (1971, samizdat; oficiálně 1989) — román
-- **Slavnosti sněženek** (1978) — povídky
-- **Městečko, kde se zastavil čas** (1978) — povídky
+- **Perlička na dně** (1963) — Hrabalova literární prvotina, soubor povídek o pražských outsiderech, dělnících a podivínech. Skupina autorů kolem této knihy (Hrabal, Škvorecký, Vaculík ad.) položila základy české nové vlny v próze i filmu (povídky byly podkladem stejnojmenného filmového almanachu z 1965).
+- **Pábitelé** (1964) — sbírka povídek, ve kterých Hrabal poprvé pojmenoval svůj typický styl „pábení" — volné, asociativní vyprávění hrdinů z hospod, dílen a pražského předměstí. Pábitel = člověk, který si vypráví nekonečné historky, často přehnané, ale plné životnosti.
+- **Postřižiny** (1976) — autobiografická novela o Hrabalově rodině; sleduje matku Marii Postřižinskou, otce-správce pivovaru Francina a vitálního strýce Pepina v meziválečném maloměstě. Lyrická vzpomínka na ztracený svět; zfilmováno Jiřím Menzelem (1980).
+- **Příliš hlučná samota** (1976, samizdat; oficiálně 1989) — novela o starci Haňťovi, který 35 let lisuje starý papír a knihy v podzemní stoupě a tajně si zachraňuje vzácné svazky. Filozofická báseň v próze o kultuře, samotě a smrti; jedno z nejosobnějších Hrabalových děl.
+- **Obsluhoval jsem anglického krále** (1971, samizdat; oficiálně 1989) — román sledující servírku-snílka Jana Dítěte od první republiky přes protektorát po komunistický převrat. Stoupá společensky až k vlastnímu hotelu, pak vše ztrácí; tragikomická panoramatická freska. Zfilmováno Jiřím Menzelem (2006).
+- **Slavnosti sněženek** (1978) — sbírka povídek z prostředí Kerska, lesního zákoutí nedaleko Prahy, kde Hrabal trávil léta. Lehčí, idylické vyprávění o vesničanech, chatařích a myslivcích; zfilmováno Menzelem (1983) s nezapomenutelným hláškami.
+- **Městečko, kde se zastavil čas** (1978) — autobiografická próza navazující na *Postřižiny*; sleduje dospívání malého Bohumila („Bambino di Praga") ve městě Nymburk za 2. světové války a po ní. Lyrická vzpomínka prostoupená válečnou tísní.
 
 ---
 
@@ -51,9 +51,9 @@ updated: "2026-05-21"
 - Filmová nová vlna — úzká spolupráce literatury a filmu
 
 **Další zástupci:**
-- ✅ **Ladislav Fuks** — Spalovač mrtvol (1967), Pan Theodor Mundstock (1963) — psychologická próza, holokaust v pozadí, motiv banálního zla (na tvém seznamu)
-- 📚 **Milan Kundera** — Žert (1967), Směšné lásky (1963–68), Nesnesitelná lehkost bytí (1984) — intelektuální satira, ironie; později francouzská emigrace
-- ✅ **Zdeněk Svěrák & Ladislav Smoljak** — Vyšetřování ztráty třídní knihy (1967), České nebe (2008) — Divadlo Járy Cimrmana, mystifikace, parodie odborného diskurzu (na tvém seznamu)
+- ✅ **Ladislav Fuks** — *Spalovač mrtvol* (1967), *Pan Theodor Mundstock* (1963) — psychologická próza s tématem holocaustu a banálního zla. *Spalovač mrtvol* zachycuje proměnu pražského zaměstnance krematoria Kopfrkingla v nacistického vraha vlastní rodiny. *Pan Theodor Mundstock* sleduje židovského úředníka, který se obsesivně připravuje na transport. Na tvém seznamu.
+- 📚 **Milan Kundera** — *Žert* (1967), *Směšné lásky* (1963–68), *Nesnesitelná lehkost bytí* (1984) — intelektuální satira a ironie dějin. *Žert* je román o studentovi Ludvíkovi, kterého nevinný vtip („Optimismus je opium lidstva! Trockij ať žije!") na pohlednici vyloučí ze strany a zničí život. *Nesnesitelná lehkost bytí* sleduje milostné čtyřúhelníky v Praze 1968 a emigraci. Sám Kundera emigroval do Francie a psal později francouzsky.
+- ✅ **Zdeněk Svěrák & Ladislav Smoljak** — *Vyšetřování ztráty třídní knihy* (1967), *České nebe* (2008) — Divadlo Járy Cimrmana, mystifikace a parodie odborného diskurzu. *Vyšetřování* je absurdní komedie o byrokratickém vyšetřování banální ztráty třídnice. *České nebe* je vrcholná pozdní hra o setkání českých národních patronů (Karel IV., Hus, Komenský...) v nebi. Na tvém seznamu.
 
 ---
 

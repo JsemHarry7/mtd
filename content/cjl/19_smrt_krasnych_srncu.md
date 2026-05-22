@@ -25,11 +25,10 @@ updated: "2026-05-21"
 - Jeho díla patří k nejkrásnějším a nejčtenějším textům české prózy 20. století
 
 **Další díla:**
-- **Smrt krásných srnců** (1971) — povídky
-- **Jak jsem potkal ryby** (1974, posmrtně) — povídky
-- **Dukla mezi mrakodrapy** (1964) — sportovní reportáž
-- **Syn celerového krále** (1979, posmrtně) — vzpomínky
-- **Pohádka o Raškovi** (1974, posmrtně)
+- **Jak jsem potkal ryby** (1974, posmrtně) — soubor povídek pokračujících v autobiografické linii *Smrti krásných srnců*. Pavel vzpomíná na své rybářské zážitky s otcem na Berounce; meditace o štěstí jednoduchých zážitků, přírody a o smyslu života. Tichá, lyrická poezie v próze.
+- **Dukla mezi mrakodrapy** (1964) — sportovní reportáž z amerického zápasového turné československé fotbalové Dukly Praha v roce 1961. Pavel jako sportovní novinář popisuje zážitky z New Yorku, Chicagu a setkání mladých českých hráčů s jiným světem za železnou oponou.
+- **Syn celerového krále** (1979, posmrtně) — autobiografické vzpomínky věnované otci Leovi Pavlovi (Popperovi), který byl po válce obchodním cestujícím s celerovou silnicí. Komicko-melancholický portrét otce a života v poválečném Československu.
+- **Pohádka o Raškovi** (1974, posmrtně) — vyprávění o životě skokana na lyžích Jiřího Rašky, který v roce 1968 v Grenoblu získal jako první Čechoslovák zlatou olympijskou medaili ze skoků na lyžích. Pavel kombinuje sportovní reportáž s pohádkovým, lyrickým tónem.
 
 ---
 
@@ -48,9 +47,9 @@ updated: "2026-05-21"
 - Oslava přírody a prostých životních hodnot
 
 **Další zástupci:**
-- 📚 **Arnošt Lustig** — Modlitba pro Kateřinu Horovitzovou (1964), Démanty noci (1958), Noc a naděje (1958) — sám prošel Terezínem, Osvětimí, Buchenwaldem; klíčová česká holokaustová próza
-- 📚 **Bohumil Hrabal** — Postřižiny (1976), Slavnosti sněženek (1978) — lyrizovaná próza, humor a vzpomínka
-- 📚 **Josef Škvorecký** — Prima sezona (1975), Zbabělci (1958) — autobiografické a generační prózy
+- 📚 **Arnošt Lustig** — *Modlitba pro Kateřinu Horovitzovou* (1964), *Démanty noci* (1958), *Noc a naděje* (1958) — klíčový český autor holokaustové prózy; sám prošel Terezínem, Osvětimí a Buchenwaldem. *Modlitba* je novela o mladé Židovce, která je s rodinou „vykoupena" nacisty jako výměnný vězeň, ale podvodem skončí v plynové komoře; v poslední chvíli zabije esesáka pistolí. *Démanty noci* zachycují útěk dvou chlapců z transportu smrti.
+- 📚 **Bohumil Hrabal** — *Postřižiny* (1976), *Slavnosti sněženek* (1978) — lyrizovaná próza, humor a vzpomínka. *Postřižiny* sledují matku-vitalistku Marii, otce-pivovarského správce Francina a strýce Pepina v meziválečném maloměstě. *Slavnosti sněženek* jsou idylické povídky ze středočeského Kerska, kde Hrabal pobýval; obě díla zfilmoval Jiří Menzel.
+- 📚 **Josef Škvorecký** — *Prima sezona* (1975), *Zbabělci* (1958) — autobiografické a generační prózy o dospívání v Náchodě (alias Kostelec). *Zbabělci* zachycují posledních osm dní 2. světové války očima maturanta Dannyho Smiřického, který víc řeší jazzové kapely a dívky než ideály. *Prima sezona* je pokračování o Dannyho středoškolských letech. Škvorecký emigroval 1969 do Kanady a založil exilové nakladatelství 68 Publishers.
 
 ---
 

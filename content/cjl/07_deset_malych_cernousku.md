@@ -28,11 +28,11 @@ updated: "2026-05-21"
 
 ### Další díla
 
-- **Vražda v Orient-expresu** (1934) – Hercule Poirot
-- **Vražda Rogera Ackroyda** (1926) – průlomový detektivní román s překvapivým závěrem
-- **Past na myši** (1952) – nejdéle hraná divadelní hra na světě
-- **Smrt na Nilu** (1937) – Hercule Poirot
-- Série s **Herculem Poirotem** a **slečnou Marplovou**
+- **Vražda v Orient-expresu** (1934) – jeden z nejslavnějších Poirotových případů. V luxusním vlaku Orient Express je nalezen mrtvý americký gangster Ratchett s dvanácti bodnými ranami; Poirot odhaluje, že vrahem nebyl jednotlivec, ale spolek dvanácti cestujících, kteří se chtěli pomstít za únos a vraždu dítěte. Filmové zpracování s Albertem Finneyem (1974) i Kennethem Branaghem (2017).
+- **Vražda Rogera Ackroyda** (1926) – průlomový detektivní román, který šokoval čtenáře svým rozuzlením; vrahem se ukáže být sám vypravěč příběhu (doktor Sheppard). Christie tím porušila nepsané pravidlo žánru a redefinovala možnosti detektivky.
+- **Past na myši** (*The Mousetrap*, 1952) – divadelní hra hraná nepřetržitě v Londýně od roku 1952 – nejdéle hraná divadelní hra na světě. Skupina lidí uvězněná sněhem v hotelu; jeden z nich je vrah. Diváci jsou prosbou autora vázáni neprozradit konec.
+- **Smrt na Nilu** (1937) – Hercule Poirot vyšetřuje vraždu mladé dědičky Linnety Doyle během luxusní plavby po Nilu. Klasický whodunit s exotickou kulisou; dvakrát zfilmováno (1978 s Peterem Ustinovem, 2022 s Kennethem Branaghem).
+- Série s **Herculem Poirotem** (33 románů; geniální belgický detektiv s pověstnými „malými šedými buňkami") a **slečnou Marplovou** (12 románů; nenápadná stará dáma z anglické vesnice St. Mary Mead, která řeší vraždy díky znalosti lidské povahy).
 
 ---
 
@@ -60,9 +60,9 @@ updated: "2026-05-21"
 
 ### Další zástupci
 
-- ✅ **John Steinbeck** – „O myších a lidech" (1937), „Hrozny hněvu" (1939) – americká sociální próza Velké hospodářské krize, Nobelova cena 1962 (na tvém seznamu)
-- 📚 **Ernest Hemingway** – „Stařec a moře" (1952), „Komu zvoní hrana" (1940) – americká ztracená generace, Nobelova cena 1954
-- 📚 **Francis Scott Fitzgerald** – „Velký Gatsby" (1925) – ikona americké ztracené generace, kritika amerického snu
+- ✅ **John Steinbeck** – „O myších a lidech" (1937), „Hrozny hněvu" (1939) – americký sociální realismus 30. let. *O myších a lidech* je novela o dvou potulných dělnících (silný Lennie a malý George) snících o vlastní farmě v době Velké hospodářské krize. *Hrozny hněvu* sledují migraci rodiny Joadových z Oklahomy do Kalifornie. Nobelova cena 1962 (na tvém seznamu).
+- 📚 **Ernest Hemingway** – „Stařec a moře" (1952), „Komu zvoní hrana" (1940) – americká ztracená generace. *Stařec a moře* je krátká novela o kubánském rybáři Santiagovi, který chytí obrovského marlína, ale žraloci mu ho cestou zpět rozsápou. *Komu zvoní hrana* zachycuje Roberta Jordana, amerického dobrovolníka ve španělské občanské válce. Nobelova cena 1954.
+- 📚 **Francis Scott Fitzgerald** – „Velký Gatsby" (1925) – ikona americké ztracené generace a kritika amerického snu. Tajemný milionář Jay Gatsby pořádá ve své vile na Long Islandu okázalé večírky, jen aby získal zpět svou dávnou lásku Daisy Buchananovou; jeho tragický pád ukazuje prázdnotu „roaring twenties".
 
 ---
 

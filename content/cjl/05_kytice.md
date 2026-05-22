@@ -24,9 +24,9 @@ updated: "2026-05-21"
 - *Kytice* je jeho celoživotní básnické dílo -- pracoval na ní přes 20 let.
 
 **Další díla:**
-- *Prostonárodní české písně a říkadla* (sběratelská práce)
-- *České pohádky* (*Tři zlaté vlasy děda Vševěda*, *Zlatovláska*, *Dlouhý, Široký a Bystrozraký* aj.)
-- Historické a archivní práce
+- *Prostonárodní české písně a říkadla* (1862–1864) – rozsáhlé sběratelské dílo; Erben několik desetiletí sbíral po českém venkově lidové písně, balady, říkadla, zaříkadla i obyčeje. Zásadní pramen pro českou folkloristiku a etnografii.
+- *České pohádky* (vydávané od 50. let 19. století) – soubor lidových pohádek, které Erben sebral a literárně přepracoval. Patří sem *Tři zlaté vlasy děda Vševěda* (chlapec získá kouzelné vlasy proroctví), *Zlatovláska* (Jiřík rozumí řeči zvířat a osvobodí princeznu) a *Dlouhý, Široký a Bystrozraký* (princ s třemi pomocníky-obry osvobodí princezny ze zámku zlého kouzelníka).
+- Historické a archivní práce – Erben byl od 1851 archivářem města Prahy a vydával prameny k českým dějinám (např. *Regesta diplomatica nec non epistolaria Bohemiae et Moraviae*). Patřil k vědecké generaci kolem Františka Palackého.
 
 ---
 
@@ -42,9 +42,9 @@ updated: "2026-05-21"
   - Návrat ke kořenům národní identity.
   - V českém kontextu: obrození národního jazyka a kultury.
 - **Další zástupci:**
-  - 📚 Karel Hynek Mácha (*Máj*, 1836) -- vrchol českého romantismu
-  - 📚 Victor Hugo (*Bídníci*, 1862; *Chrám Matky Boží v Paříži*, 1831) -- největší francouzský romantik
-  - 📚 Alexander Sergejevič Puškin (*Evžen Oněgin*, 1823–1831) -- ruský romantismus, „ruský Mácha"
+  - 📚 Karel Hynek Mácha (*Máj*, 1836) – vrchol českého romantismu. Lyricko-epická báseň o Vilému (vůdci loupežníků), který zabije vlastního otce-svůdce své milé Jarmily a je popraven; meditace o vině, smrti, přírodě a smyslu života. Známé verše „Byl pozdní večer – první máj –" jsou prvním milostným poselstvím.
+  - 📚 Victor Hugo (*Bídníci*, 1862; *Chrám Matky Boží v Paříži*, 1831) – největší francouzský romantik. *Bídníci* sledují bývalého trestance Jeana Valjeana, který se snaží žít poctivě, ale je pronásledován policistou Javertem; mohutná freska Paříže 19. století. *Chrám* odehrávající se v 15. století popisuje tragickou lásku hrbatého zvoníka Quasimoda k cikánce Esmeraldě.
+  - 📚 Alexander Sergejevič Puškin (*Evžen Oněgin*, 1823–1831) – ruský romantismus, „ruský Mácha". Veršovaný román o znuděném dandym Oněginovi, který odmítne lásku mladé Taťány a zabije v souboji svého přítele Lenského; když se po letech zamiluje on do Taťány, je už pozdě. Inovativní „oněginská sloka" se 14 verši.
 
 ---
 

@@ -24,13 +24,13 @@ updated: "2026-05-21"
 - Po propuštění žil v chudobě ve Francii pod jménem Sebastian Melmoth. Zemřel v Paříži.
 
 **Další díla:**
-- *Jak je důležité míti Filipa* (komedie -- satirický pohled na viktoriánskou společnost)
-- *Ideální manžel* (komedie)
-- *Vějíř lady Windermerové* (komedie)
-- *Šťastný princ a jiné pohádky* (pohádky pro dospělé)
-- *De Profundis* (dopis z vězení)
-- *Balada o žaláři v Readingu* (báseň)
-- *Salome* (drama)
+- *Jak je důležité míti Filipa* (1895; orig. *The Importance of Being Earnest*) – Wildeova nejslavnější komedie, postavená na slovní hříčce („Earnest" = jméno i „vážný/upřímný"). Dva přátelé si vymyslí fiktivního příbuzného jménem Ernest a komplikované záměny vyústí ve šťastný konec; satira viktoriánských konvencí.
+- *Ideální manžel* (1895) – komedie o ministrovi Sirovi Robertu Chilternovi, jehož kariéru ohrožuje vydíratelka znalá jeho dávného korupčního činu. Wilde řeší politickou bezúhonnost, manželskou důvěru a sílu odpuštění.
+- *Vějíř lady Windermerové* (1892) – salonní komedie o mladé ženě, která se mylně domnívá, že její manžel je nevěrný s tajemnou paní Erlynnovou (která je ve skutečnosti její dlouho ztracená matka). Brilantní dialog a kritika viktoriánské morálky.
+- *Šťastný princ a jiné pohádky* (1888) – sbírka pohádek pro děti i dospělé (*Šťastný princ*, *Slavík a růže*, *Sobecký obr*); zlatá socha prince a malá vlaštovka rozdávají chudým, ale platí za to životem. Lyricko-tragické příběhy o lásce, oběti a sobectví.
+- *De Profundis* (napsáno 1897, vydáno 1905) – dlouhý dopis adresovaný z vězení v Readingu milenci lordu Alfredu Douglasovi (Bosie), kvůli kterému byl Wilde uvězněn. Osobní zpověď o pádu, utrpení a duchovní proměně.
+- *Balada o žaláři v Readingu* (1898) – Wildeho poslední velká báseň, inspirovaná popravou spoluvězně Charlese Wooldridge. Refrén „každý zabíjí, co miluje" reflektuje vinu, trest a lidskou křehkost; vyšla anonymně.
+- *Salome* (1893) – jednoaktové biblické drama napsané francouzsky o princezně Salome, která žádá hlavu Jana Křtitele jako odměnu za smyslný „tanec sedmi závojů". Symbolistní, dekadentní text plný erotiky a krutosti; zakázáno v Anglii.
 
 ---
 
@@ -46,9 +46,9 @@ updated: "2026-05-21"
   - Zájem o temné stránky lidské povahy, tabu, zlo.
   - Inspirace francouzskými symbolisty a dekadenty.
 - **Další zástupci:**
-  - 📚 Charles Baudelaire (*Květy zla*, 1857) -- předzvěst dekadence i symbolismu, klíčový text moderní lyriky; odsouzen za obscénnost
-  - Paul Verlaine (*Saturnské básně*, 1866; *Romance beze slov*, 1874) -- francouzský symbolismus, „prokletý básník", hudebnost verše
-  - Arthur Rimbaud (*Iluminace*, 1886; *Sezóna v pekle*, 1873) -- symbolistický básník-zázračné dítě, halucinatorní obrazy
+  - 📚 Charles Baudelaire (*Květy zla*, 1857) – předzvěst dekadence i symbolismu, klíčový text moderní lyriky. Sbírka básní o městě, kráse v ošklivosti, smrti, hříchu a melancholii (spleen); v centru cyklus „Splín a ideál". Po vydání odsouzen za obscénnost a šest básní cenzurováno.
+  - Paul Verlaine (*Saturnské básně*, 1866; *Romance beze slov*, 1874) – francouzský symbolismus, „prokletý básník" (vystřelil po Rimbaudovi a šel za to do vězení). Důraz na hudebnost verše, melancholii, mlhavé nálady; jeho heslo „Hudbu především!" definovalo symbolistickou poetiku.
+  - Arthur Rimbaud (*Iluminace*, 1886; *Sezóna v pekle*, 1873) – symbolistický básník-zázračné dítě; psal své nejlepší dílo mezi 16 a 20 lety, pak literaturu opustil a stal se obchodníkem v Africe. Halucinatorní obrazy, „proměna všech smyslů", proslulý sonet „Samohlásky" (každé samohlásce přiřadil barvu).
 
 ---
 

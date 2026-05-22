@@ -38,16 +38,16 @@ updated: "2026-05-21"
 - Stálá scéna v Žižkovském divadle
 
 **Další hry Divadla Járy Cimrmana:**
-- **Akt** (1967)
-- **Hospoda Na mýtince** (1969)
-- **Dobytí severního pólu** (1985)
-- **Záskok** (1994)
-- **České nebe** (2008)
-- **Vražda v salonním coupé** (1970)
-- **Posel z Liptákova** (1977)
-- **Cimrman v říši hudby** (1973)
-- **Blaník** (1990)
-- **Švestka** (2002)
+- **Akt** (1967) — vůbec první hra Divadla Járy Cimrmana, jednoaktovka „nalezená v Cimrmanově pozůstalosti". Parodie na konverzační drama a milostné trojúhelníky 19. století; postavy v salónním prostředí řeší obraz nahého aktu, který nikdo nesměl spatřit.
+- **Hospoda Na mýtince** (1969) — komedie ze 19. století o Liptákovech, kteří provozují horskou hospodu, a jejich neobvyklých hostech. Slavná pro výstřednost postav (vrchního Karla Infelda Prácheňského, generála Brodského) a typický „cimrmanovský" jazyk plný archaismů.
+- **Dobytí severního pólu** (1985) — Cimrman a jeho tým (Učitel Frištenský, lékárník Šofr, náčelník Beran, badatel Voženil) se vydávají dobýt severní pól pěšky bez polárního výcviku. Tragikomická parodie polárních expedic; konec mrazivě komický (postavy mrznou na místě).
+- **Záskok** (1994) — hra v rámci hry. Soubor venkovských ochotníků nacvičil Cimrmanovo drama *Vlasta*, ale v poslední chvíli musí všechny role zaskakovat jediný herec Vlasta Brodský. Parodie na divadelní zákulisí a amatérské divadlo.
+- **České nebe** (2008) — pozdní vrcholná hra. Češtní národní patroni (Karel IV., Hus, Komenský, Havlíček, Žižka, Babinský) jsou v nebi povoláni do „národní rady", aby řešili krizi Česka v moderní době. Vrcholná konfrontace národních mýtů se současností.
+- **Vražda v salonním coupé** (1970) — parodie detektivky ve vlaku v duchu Agathy Christie; v luxusním kupé je zavražděn baron a podezřelými je galerie excentriků. Komisař vyšetřuje s typicky cimrmanovskou logikou.
+- **Posel z Liptákova** (1977) — hra o objevení Cimrmanovy „pozůstalosti" v zapadlém moravském Liptákově; obsahuje několik krátkých Cimrmanových mininahávek (např. *Vizionář*, *Němý Bobeš*, *Posel světla*). Mistrovství krátkých forem.
+- **Cimrman v říši hudby** (1973) — hra o Cimrmanových hudebních objevech; obsahuje cimrmanovskou „lipanovou serenádu" a parodie operních árií. Cimrman zde figuruje jako neznámý učitel hudby a předchůdce velkých skladatelů.
+- **Blaník** (1990) — Cimrmanovo zpracování českého národního mýtu o rytířích spících v hoře Blaník. Karikatura vlasteneckých pověstí; rytíři se nedokáží probudit ani v největším ohrožení národa.
+- **Švestka** (1997, prem. 1997; někdy uváděno 2002) — komedie ze železničního prostředí na trati Praha–Beroun; vlak zaseknutý kvůli zapadlé švestce vede k absurdním rozhovorům cestujících a personálu. Klasická cimrmanovská parodie byrokracie.
 
 ---
 
@@ -66,9 +66,9 @@ updated: "2026-05-21"
 - Malé divadelní formy — intimní prostor, přímý kontakt s divákem
 
 **Další zástupci:**
-- ✅ **Bohumil Hrabal** — Ostře sledované vlaky (1965), Obsluhoval jsem anglického krále (1971/1989) — mistr „pábení", lyricko-expresivní próza (na tvém seznamu)
-- ✅ **Ladislav Fuks** — Spalovač mrtvol (1967), Pan Theodor Mundstock (1963) — psychologická próza, holokaust v pozadí, motiv banálního zla (na tvém seznamu)
-- 📚 **Milan Kundera** — Žert (1967), Směšné lásky (1963–68) — intelektuální satira, ironie dějin, později francouzská emigrace
+- ✅ **Bohumil Hrabal** — *Ostře sledované vlaky* (1965), *Obsluhoval jsem anglického krále* (1971/1989) — mistr „pábení", lyricko-expresivní próza. *Ostře sledované vlaky* sledují dospívání mladého výpravčího Miloše Hrmy na maloměstské stanici za války až k jeho hrdinské smrti při sabotáži muničního vlaku. *Obsluhoval jsem anglického krále* je tragikomický příběh malého servírky-snílka přes celé 20. století. Na tvém seznamu.
+- ✅ **Ladislav Fuks** — *Spalovač mrtvol* (1967), *Pan Theodor Mundstock* (1963) — psychologická próza s tématem holocaustu a banálního zla. *Spalovač mrtvol* zachycuje proměnu pražského zaměstnance krematoria Kopfrkingla v nacistického vraha vlastní rodiny pod vlivem nacistické ideologie. *Pan Theodor Mundstock* sleduje židovského úředníka, který se obsesivně připravuje na transport. Na tvém seznamu.
+- 📚 **Milan Kundera** — *Žert* (1967), *Směšné lásky* (1963–68) — intelektuální satira a ironie dějin. *Žert* je román o studentovi Ludvíkovi, kterého nevinný vtip na pohlednici („Optimismus je opium lidstva! Trockij ať žije!") vyloučí ze strany a celý život mu pokřiví. *Směšné lásky* je cyklus povídek o ironických milostných hrách za normalizace. Kundera později emigroval do Francie a psal francouzsky.
 
 ---
 

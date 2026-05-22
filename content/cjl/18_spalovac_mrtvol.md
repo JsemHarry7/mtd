@@ -24,12 +24,11 @@ updated: "2026-05-21"
 - Je považován za jednoho z nejlepších českých autorů psychologické prózy
 
 **Další díla:**
-- **Pan Theodor Mundstock** (1963) — román o židovském muži čekajícím na transport
-- **Spalovač mrtvol** (1967) — novela
-- **Variace pro temnou strunu** (1966) — povídky
-- **Příběh kriminálního rady** (1971)
-- **Myši Natálie Mooshabrové** (1970) — román
-- **Vévodkyně a kuchařka** (1983)
+- **Pan Theodor Mundstock** (1963) — Fuksův prozaický debut a klíčové dílo o holocaustu. Pražský židovský úředník Mundstock žije sám v očekávání transportu a obsesivně si nacvičuje (rozkládání zavazadel, postavení v řadě, výslechy), aby přežil koncentrační tábor. Když konečně dostane povolávací rozkaz, ironicky zahyne pod kolami auta dříve, než se transport vůbec rozjede.
+- **Variace pro temnou strunu** (1966) — soubor povídek psychologické prózy. Děj se odehrává v meziválečném Brně a Praze; mladý chlapec ze smíšené (židovsko-české) rodiny prochází ranou pubertou a sleduje narůstající napětí 30. let, antisemitismus a předtuchu války. Citlivá studie zranitelné psychiky.
+- **Příběh kriminálního rady** (1971) — psychologická próza zobrazující rakouského kriminálního radu z konce 19. století. Příběh se vyznačuje stylizovanou atmosférou habsburské monarchie a Fuksovou typickou tísní z drobných detailů.
+- **Myši Natálie Mooshabrové** (1970) — alegorický román s prvky absurdity a černého humoru. Stará paní Mooshabrová žije v nejmenované totalitní zemi, hubí myši a vychovává cizí děti; postupně se odhaluje, že je tajně bývalou panovnicí v exilu. Kafkovsky tajemné podobenství o moci a identitě.
+- **Vévodkyně a kuchařka** (1983) — historický román z prostředí vídeňského dvora habsburské monarchie. Vévodkyně a kuchařka jsou ústředními postavami, kolem kterých se rozvíjí síť drobných intrik, tajemství a osudových obratů; Fuksův pozdní román, ovlivněný jeho zájmem o historii a dějiny umění.
 
 ---
 
@@ -48,9 +47,9 @@ updated: "2026-05-21"
 - Atmosféra úzkosti, strachu, klaustrofobie
 
 **Další zástupci:**
-- ✅ **Bohumil Hrabal** — Ostře sledované vlaky (1965), Obsluhoval jsem anglického krále (1971/1989) — mistr „pábení", lyricko-expresivní próza (na tvém seznamu)
-- 📚 **Milan Kundera** — Žert (1967), Směšné lásky (1963–68) — intelektuální satira, ironie dějin, paměť a zrada
-- ✅ **Zdeněk Svěrák & Ladislav Smoljak** — Vyšetřování ztráty třídní knihy (1967), České nebe (2008) — Divadlo Járy Cimrmana, mystifikace, absurdní humor (na tvém seznamu)
+- ✅ **Bohumil Hrabal** — *Ostře sledované vlaky* (1965), *Obsluhoval jsem anglického krále* (1971/1989) — mistr „pábení", lyricko-expresivní próza. *Ostře sledované vlaky* sledují dospívání mladého výpravčího Miloše Hrmy na maloměstské stanici za války až k jeho hrdinské smrti při sabotáži muničního vlaku. *Obsluhoval jsem anglického krále* je tragikomický příběh malého servírky-snílka přes celé 20. století. Na tvém seznamu.
+- 📚 **Milan Kundera** — *Žert* (1967), *Směšné lásky* (1963–68) — intelektuální satira, ironie dějin, paměť a zrada. *Žert* je román o studentovi Ludvíkovi, kterého nevinný vtip na pohlednici („Optimismus je opium lidstva! Trockij ať žije!") vyloučí ze strany a celý život mu pokřiví. *Směšné lásky* je cyklus povídek o ironických milostných hrách za normalizace. Kundera později emigroval do Francie.
+- ✅ **Zdeněk Svěrák & Ladislav Smoljak** — *Vyšetřování ztráty třídní knihy* (1967), *České nebe* (2008) — Divadlo Járy Cimrmana, mystifikace a absurdní humor. *Vyšetřování* je absurdní komedie o byrokratickém vyšetřování banální ztráty třídnice ve školním sborovně. *České nebe* je pozdní hra o setkání českých národních patronů (Karel IV., Hus, Komenský, Havlíček...) v nebi a jejich pohledu na současné Česko. Na tvém seznamu.
 
 ---
 

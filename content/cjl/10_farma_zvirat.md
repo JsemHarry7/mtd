@@ -25,11 +25,11 @@ updated: "2026-05-21"
 - Celoživotně se stavěl proti totalitarismu a sociální nespravedlnosti; zastánce demokratického socialismu
 
 **Další díla:**
-- *1984* (Nineteen Eighty-Four, 1949) – dystopický román o totalitní společnosti Oceánie
-- *Na dně v Paříži a Londýně* (Down and Out in Paris and London, 1933) – reportážní próza o životě chudých
-- *Hold Katalánsku* (Homage to Catalonia, 1938) – válečné memoáry ze Španělska
-- *Barmské dny* (Burmese Days, 1934) – román kritizující britský kolonialismus
-- *Cesta k Wigan Pier* (The Road to Wigan Pier, 1937) – reportáž o životě dělníků v severní Anglii
+- *1984* (*Nineteen Eighty-Four*, 1949) – nejslavnější dystopický román 20. století. Úředník Winston Smith žije v totalitní Oceánii ovládané Velkým bratrem, kde Strana přepisuje minulost a sleduje občany telescreeny; jeho tajná láska s Julií a pokus o vzpouru končí mučením a převýchovou. Zavedl pojmy jako newspeak, doublethink či Big Brother.
+- *Na dně v Paříži a Londýně* (*Down and Out in Paris and London*, 1933) – reportážní próza založená na vlastních zkušenostech. Orwell popisuje pařížské hladovění a práci jako kuchyňský pomocník v hotelu, a poté tuláctví po Londýně mezi bezdomovci. Sociální kritika a empatie k „malému člověku".
+- *Hold Katalánsku* (*Homage to Catalonia*, 1938) – válečné memoáry ze španělské občanské války, kde Orwell sloužil jako dobrovolník v milici POUM (trockistická strana). Popisuje boje na frontě, vlastní zranění (zásah krku) a stalinistickou likvidaci ostatních levicových frakcí v Barceloně – zážitek, který formoval jeho odpor k totalitě.
+- *Barmské dny* (*Burmese Days*, 1934) – román kritizující britský kolonialismus, čerpá z Orwellova pětiletého působení u koloniální policie v Barmě. Hlavní hrdina Flory, opuštěný britský obchodník v provinčním městečku, marně hledá smysl ve zkažené, rasistické komunitě britských kolonialistů.
+- *Cesta k Wigan Pier* (*The Road to Wigan Pier*, 1937) – sociologická reportáž o životě dělníků v hornické severní Anglii za Velké hospodářské krize. První polovina detailně popisuje bídu v Yorkshire a Lancashire, druhá je esej o socialismu a třídních předsudcích britské levice.
 
 ---
 
@@ -50,16 +50,16 @@ updated: "2026-05-21"
 - **Manor Farm (Panský statek)** = Rusko/Sovětský svaz
 - **Major** (staré prase) = Karl Marx / Vladimir Lenin (ideolog revoluce)
 - **Napoleon** (prase) = Josef Stalin (diktátor)
-- **Sněhurka/Snowball** (prase) = Lev Trockij (vyhnán)
+- **Kuliš (Snowball)** (prase) = Lev Trockij (vyhnán)
 - **Boxer** (kůň) = pracující třída/proletariát (oddaný, ale nakonec obětován)
 - **Psi Napoleona** = NKVD/KGB (tajná policie)
 - **Squealer** (prase) = propagandistická média
 - **Lidé z okolních farem** = kapitalistické státy
 
 **Další zástupci:**
-- **Aldous Huxley** – *Konec civilizace* (Brave New World, 1932) – sourozenecká dystopie k Orwellovi: kontrola rozkoší a drogou „soma" místo strachem; lidé geneticky rozděleni do kast.
-- 📚 **Ray Bradbury** – *451 stupňů Fahrenheita* (1953) – v budoucnosti se pálí knihy; hasič Montag se připojí k odboji, kde si lidé pamatují celé knihy nazpaměť.
-- **Jevgenij Zamjatin** – *My* (1924) – prvotní dystopický román; D-503 v dokonalém totalitním státě se skleněnými domy a čísly místo jmen. **Přímý vzor Orwella i Huxleyho.**
+- **Aldous Huxley** – *Konec civilizace* (*Brave New World*, 1932) – sourozenecká dystopie k Orwellovi. V daleké budoucnosti je lidstvo geneticky rozděleno do kast (alfa, beta...) a ovládáno rozkošemi, sexem a drogou „soma" místo strachem a násilím. Hrdinou je „divoch" John, vychovaný mimo systém na rezervaci.
+- 📚 **Ray Bradbury** – *451 stupňů Fahrenheita* (1953) – v budoucnosti, kde je čtení knih zakázáno, hasiči knihy pálí (451 °F je teplota, při níž hoří papír). Hasič Guy Montag začne tajně knihy číst a nakonec uteče k odbojářům v lesích, kteří si pamatují celé knihy nazpaměť. Varování před masmédii a cenzurou.
+- **Jevgenij Zamjatin** – *My* (1924) – prvotní dystopický román (předchází Orwellovi i Huxleymu o desítky let). V Jednotném státě budoucnosti žijí lidé v skleněných domech, mají čísla místo jmen a všechno je matematicky vypočítáno; inženýr D-503 začne pochybovat o systému kvůli ženě I-330. **Přímý vzor Orwella i Huxleyho.**
 
 ---
 
@@ -68,7 +68,7 @@ updated: "2026-05-21"
 - *Farma zvířat* je jedním z Orwellových klíčových děl, předchůdcem románu *1984*
 - Napsána v letech 1943–1944, ale odmítnuta mnoha nakladateli (z politických důvodů – SSSR byl tehdy spojencem ve válce)
 - Vydána nakonec v srpnu 1945 v londýnském nakladatelství Secker & Warburg
-- Orwell byl přímou alegoriíí inspirován ruskou revolucí (1917) a stalinismem
+- Orwell byl přímou alegorií inspirován ruskou revolucí (1917) a stalinismem
 - Zkušenosti ze španělské občanské války (1936–1939) ho přesvědčily, že stalinismus revoluce zradil
 - Dílo je kratší (novela), přístupné širokému čtenářskému publiku, a přesto nesmírně silné
 - Po vydání se stalo mezinárodním bestsellerem a jedním z nejčtenějších politických alegorií vůbec
@@ -111,12 +111,12 @@ updated: "2026-05-21"
 **Části díla:** Novela je rozdělena do **10 kapitol**:
 
 1. **Kapitola 1** – Starý Major svolá zvířata a pronese řeč o útlaku člověka; idea Zvěřinismu (Animalismu)
-2. **Kapitola 2** – Major zemře; prase Napoleon a Sněhurka připraví revoluci; lidé jsou vyhnáni
+2. **Kapitola 2** – Major zemře; prasata Napoleon a Kuliš připraví revoluci; lidé jsou vyhnáni
 3. **Kapitola 3** – Zvířata pracují; prasata přebírají vedení; Boxer se stane pilným dělníkem
 4. **Kapitola 4** – Lidé se pokusí znovu dobýt farmu (Bitva u kravína)
-5. **Kapitola 5** – Sněhurka navrhne větrný mlýn; Napoleon ho dá zahnat psy a převezme moc
+5. **Kapitola 5** – Kuliš navrhne větrný mlýn; Napoleon ho dá zahnat psy a převezme moc
 6. **Kapitola 6** – Stavba větrného mlýna; obchodování s lidmi (Napoleonovy kompromisy)
-7. **Kapitola 7** – Hladomor; Napoleon obviní Sněhurku; veřejné popravy (Velký teror)
+7. **Kapitola 7** – Hladomor; Napoleon obviní Kuliše; veřejné popravy (Velký teror)
 8. **Kapitola 8** – Přepisování přikázání; alkohol pro prasata; bitva s Frederickem
 9. **Kapitola 9** – Boxer zestárne a je odvezen do „nemocnice" – ve skutečnosti na jatka
 10. **Kapitola 10** – Prasata chodí po dvou nohách; farmáři a prasata se stávají nerozeznatelní
@@ -152,9 +152,9 @@ updated: "2026-05-21"
 
 **Hlavní postavy:**
 
-- **Napoleon** – prase, vůdce farmy po revoluci. Chytrý, bezohledný, mocichtivý. Symbolickyje Josef Stalin. Nepracuje sám, ale využívá ostatní. Nechá vyhubit vzdorující zvířata. Nakonec chodí po dvou nohách a jedná s farmáři.
+- **Napoleon** – prase, vůdce farmy po revoluci. Chytrý, bezohledný, mocichtivý. Symbolizuje Josefa Stalina. Nepracuje sám, ale využívá ostatní. Nechá vyhubit vzdorující zvířata. Nakonec chodí po dvou nohách a jedná s farmáři.
 
-- **Sněhurka (Snowball)** – prase, inteligentní, upřímný, idealistický. Symbolizuje Trockého. Navrhuje větrný mlýn a skutečné reformy. Je Napoleonem vyhnán a poté označen za zrádce a nepřítele.
+- **Kuliš (Snowball)** – prase, inteligentní, upřímný, idealistický. Symbolizuje Trockého. Navrhuje větrný mlýn a skutečné reformy. Je Napoleonem vyhnán a poté označen za zrádce a nepřítele.
 
 - **Boxer** – silný, věrný kůň. Ztělesnění pracující třídy (proletariátu). Slepě věří velení, jeho hesla jsou „Budu pracovat ještě víc!" a „Napoleon má vždy pravdu." Nakonec ho prasata prodají na jatka, když přestane být užitečný.
 
@@ -164,7 +164,7 @@ updated: "2026-05-21"
 
 **Vedlejší postavy:**
 
-- **Clovers (Jetelka)** – klisna, laskavá, cítí, že se něco pokazilo, ale nedokáže to pojmenovat
+- **Clover (Jetelka)** – klisna, laskavá, cítí, že se něco pokazilo, ale nedokáže to pojmenovat
 - **Benjamin** – starý osel, cynický, všechno vidí, nic neříká – symbol rezignovaných intelektuálů
 - **Mollie** – klisna, povrchní, touží po cukru a stužkách; nakonec uteče k jinému člověku z okolí, který ji láká pamlsky – symbol kolaborantů s třídním nepřítelem
 - **Moses** – havran, šíří náboženské iluze o „Cukrové hoře" – symbol církve jako nástroje moci
@@ -231,13 +231,13 @@ Neaplikuje se – jedná se o prozaické dílo.
 ## 14. Stručný děj / obsah
 
 **Začátek:**
-Na farmě Manor Farm (Panský statek) pana Jonese žijí utiskovaná zvířata. Starý Major, moudré prase, svolá všechna zvířata a pronese řeč: lidé kradou plody jejich práce, vyzývá ke vzpouře. Za tři dny Major zemře, ale jeho myšlenky žijí dál. Prasata Napoleona a Sněhurky rozpracují Majorovu vizi do filozofie „Zvěřinismu" (Animalismu).
+Na farmě Manor Farm (Panský statek) pana Jonese žijí utiskovaná zvířata. Starý Major, moudré prase, svolá všechna zvířata a pronese řeč: lidé kradou plody jejich práce, vyzývá ke vzpouře. Za tři dny Major zemře, ale jeho myšlenky žijí dál. Prasata Napoleon a Kuliš rozpracují Majorovu vizi do filozofie „Zvěřinismu" (Animalismu).
 
 **Revoluce:**
 Opilý Jones přestane zvířata krmit. Zvířata se spontánně vzbouří, Jonese vyženou a farmu přejmenují na „Animal Farm" (Zvěřinec). Na stodolu napíší Sedm přikázání Zvěřinismu, z nichž hlavní zní: *„Všechna zvířata si jsou rovna."* Všichni pracují nadšeně, zvláště Boxer s heslem: *„Budu pracovat ještě víc!"*
 
 **Nástup tyranie:**
-Postupně se Napoleon a Sněhurka dostávají do konfliktu. Napoleon si vychová hejno agresivních psů. Při hlasování o větrném mlýně Sněhurku psi zaženou. Napoleon převezme absolutní moc. Přikázání se začnou tajně přepisovat – např. „Žádné zvíře nezabije jiné zvíře *bez příčiny*". Squealer přesvědčuje zvířata, že vše je v pořádku a Sněhurka byl zrádce.
+Postupně se Napoleon a Kuliš dostávají do konfliktu. Napoleon si vychová hejno agresivních psů. Při hlasování o větrném mlýně Kuliše psi zaženou. Napoleon převezme absolutní moc. Přikázání se začnou tajně přepisovat – např. „Žádné zvíře nezabije jiné zvíře *bez příčiny*". Squealer přesvědčuje zvířata, že vše je v pořádku a Kuliš byl zrádce.
 
 **Teror:**
 Napoleon nechá veřejně popravit zvířata, která „přiznala" spolupráci se Sněhurkou. Podmínky na farmě se zhoršují, ale Squealer tvrdí, že produkce roste. Prasata se nastěhují do domu, pijí alkohol, obchodují s lidmi – vše, co bylo zakázáno. Každé nové porušení přikázání je zpětně „upraveno".
@@ -273,7 +273,7 @@ Roky plynout. Prasata chodí po dvou nohách, nosí oblečení, hrají karty s l
 *„Farma zvířat je alegorie na to, jak každá revoluce může zplodit novou tyranii – osvoboditelé se stanou novými utlačovateli."*
 
 **Co vždy zaujme zkoušejícího:**
-- Znáte-li **klíč alegorie**, udivíte každého: Napoleon = Stalin, Sněhurka = Trockij, Boxer = proletariát, Squealer = propaganda, psi = tajná policie. Jednoduché, ale efektní.
+- Znáte-li **klíč alegorie**, udivíte každého: Napoleon = Stalin, Kuliš = Trockij, Boxer = proletariát, Squealer = propaganda, psi = tajná policie. Jednoduché, ale efektní.
 - Zmíňte **poslední přepsané přikázání**: „Všechna zvířata si jsou rovna, ale některá jsou si rovnější." Je to jedna z nejslavnějších vět světové literatury – ironická i děsivá.
 - Orwell napsal tuto knihu **za druhé světové války**, ale nakladatelé ji odmítali – SSSR byl tehdy spojenec. Kontext vydání je sám o sobě výmluvný.
 

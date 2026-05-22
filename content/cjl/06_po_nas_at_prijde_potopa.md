@@ -25,10 +25,10 @@ updated: "2026-05-21"
 
 ### Další díla
 
-- **Radosti života** (1903) – druhá básnická sbírka, podobné ladění jako debut
-- **Nové verše** (1919, posmrtně) – básně z pozůstalosti
-- **Cesta do hor a jiné povídky** – prozaická tvorba
-- Rovněž autor karikatur a kreseb pro noviny a časopisy
+- **Radosti života** (1903) – druhá básnická sbírka, navazuje na debut, ale je temnější a cynicky vyzrálejší. Bohémské pijácké motivy, milostné zklamání, smutek a ironie; obsahuje slavné básně o lásce, smrti a tulácké svobodě.
+- **Nové verše** (1919, posmrtně) – básně z pozůstalosti, vydané pět let po Gellnerově zmizení na frontě 1. světové války. Zachycují jeho zralejší poetiku a obsahují i válečné motivy.
+- **Cesta do hor a jiné povídky** (1908) – soubor prozaických textů; ironické črty z bohémského prostředí, krátké příběhy o trampech, prostitutkách, opilcích a outsiderech. Stejně provokativní jako jeho poezie.
+- Karikatury a kresby – Gellner byl zároveň výtvarník; pravidelně publikoval karikatury a satirické kresby v Lidových novinách a satirických časopisech. Jeho výtvarná tvorba bývala radikálnější než básně.
 
 ---
 
@@ -57,9 +57,9 @@ updated: "2026-05-21"
 
 ### Další zástupci
 
-- ✅ **Viktor Dyk** – „Krysař" (1915), „Marnost" (1898) – novoklasicismus, vlastenecký motiv (na tvém seznamu)
-- 📚 **Petr Bezruč** – „Slezské písně" (1909) – sociální poezie o útlaku Slezanů, chudobě, práci v dolech
-- **Stanislav Kostka Neumann** – „Kniha lesů, vod a strání" (1914), „Nové zpěvy" (1918) – anarchista, vitalismus, organizační střed buřičů kolem časopisu Nový kult
+- ✅ **Viktor Dyk** – „Krysař" (1915), „Marnost" (1898) – stojí na pomezí buřičů a novoklasicismu. *Krysař* je novela podle německé pověsti o tom, jak se osamělý umělec mstí pokryteckému městu, které ho zradilo v lásce i v penězích. Dyk byl zároveň nacionalistický politik – senátor Národní demokracie (na tvém seznamu).
+- 📚 **Petr Bezruč** – „Slezské písně" (1909) – jediná Bezručova sbírka, ale klíčové dílo české sociální poezie. Drsná lyrika o útlaku Slezanů germanizací a polonizací, o bídě hornické práce v ostravsko-karvinských dolech; básnické „já" mluví za celý utiskovaný národ (např. *Maryčka Magdónova*, *Kantor Halfar*).
+- **Stanislav Kostka Neumann** – „Kniha lesů, vod a strání" (1914), „Nové zpěvy" (1918) – organizační střed buřičů kolem časopisu Nový kult. *Kniha lesů* je vitalistická lyrika oslavující přírodu a smyslové prožitky; *Nové zpěvy* zase oslavují techniku, moderní město a civilizaci. Anarchista, později se přiklonil ke komunismu.
 
 ---
 

@@ -26,14 +26,14 @@ updated: "2026-05-21"
 - Bratr Josef Čapek (malíř, spisovatel) – spolupracoval na tvorbě, vymyslel slovo „robot"
 
 **Další díla:**
-- *Bílá nemoc* (1937) – drama o diktátorovi a záhadné nemoci; varování před fašismem
-- *Válka s mloky* (Válka s Mloky, 1936) – satirický román; inteligentní mlocci jsou využíváni a nakonec ohrozí lidstvo
-- *Matka* (1938) – drama o válce a obětování synů; protiválečné a antifašistické poselství
-- *Věc Makropulos* (1922) – drama o ženě, která se dožila 300 let a touží po smrti
-- *Ze života hmyzu* (1921, se Josefem Čapkem) – alegorie na lidskou společnost prostřednictvím světa hmyzu
-- *Povídky z jedné kapsy a z druhé kapsy* (1929) – detektivní a morální povídky
-- *Krakatit* (1924) – román o výbušnině, která by mohla zničit svět
-- *Zahradníkův rok* (1929) – humoristická esejistická próza o zahradničení
+- *Bílá nemoc* (1937) – drama o totalitní zemi, kterou zachvátí záhadná malomocenství podobná nemoc postihující pouze lidi nad 45 let. Lékař Galén objeví lék, ale odmítne ho dát komukoli, kdo bude válčit – pohraje si tak s diktátorem Maršálem. Naléhavé varování před fašismem těsně před 2. světovou válkou.
+- *Válka s mloky* (1936) – satirický román o objevu inteligentních mloků v Pacifiku; lidstvo je nejprve využije jako levnou pracovní sílu, ale mloci se vzbouří a začnou ničit kontinenty, aby získali víc vody. Alegorie na fašismus, kolonialismus i pasivitu evropských demokracií.
+- *Matka* (1938) – drama o ženě, která za válku ztratila manžela a čtyři syny; její poslední, nejmladší syn Toni váhá, zda jít bránit vlast. Když se matka dozví, že nepřítel ostřeluje civilisty včetně dětí, sama mu podá pušku. Protiválečné a zároveň antifašistické poselství.
+- *Věc Makropulos* (1922) – drama o operní pěvkyni Emilii Marty (vlastním jménem Elina Makropulos), která díky elixíru života žije už přes 300 let. Žije znuděně a chladně; když má elixír vypršet, odmítne ho obnovit. Janáček dílo zhudebnil jako stejnojmennou operu.
+- *Ze života hmyzu* (1921, s Josefem Čapkem) – alegorické drama o světě hmyzu, kde každá skupina hmyzu symbolizuje typ lidských vad: motýli (povrchnost, milostné hry), brouci (chamtivost), mravenci (militarismus a totalita). Tulák jako pozorovatel reflektuje smysl lidského života.
+- *Povídky z jedné kapsy a z druhé kapsy* (1929) – dvě sbírky 48 detektivních a moralistních povídek. *Z jedné kapsy* je převážně detektivní (případy řešené chytrými policisty a obyčejnými lidmi), *Z druhé kapsy* obsahuje filozofické povídky o vině, spravedlnosti a relativitě pravdy.
+- *Krakatit* (1924) – román o vynálezci Prokopovi, který objeví Krakatit – výbušninu schopnou ničivého řetězového výbuchu. Politické mocnosti a tajemná organizace se ho snaží dostat za každou cenu; Prokop bloudí v horečnatém snu mezi láskou a šílenstvím.
+- *Zahradníkův rok* (1929) – humoristická esejistická próza o radostech a strázních zahradničení během dvanácti měsíců roku. Doplněno ilustracemi bratra Josefa Čapka; zlatý fond české humoristické literatury.
 
 ---
 
@@ -63,9 +63,9 @@ updated: "2026-05-21"
 - Vliv darwinismu: co je vlastně člověk? Čím se liší od stroje?
 
 **Další zástupci:**
-- ✅ **Karel Poláček** – *Bylo nás pět* (1946) – humoristický román dětskou perspektivou, parta pěti chlapců v maloměstě (na tvém seznamu)
-- 📚 **Vladislav Vančura** – *Rozmarné léto* (1926), *Markéta Lazarová* (1931) – meziválečný čz humor, archaizující jazyková hra; popraven nacisty 1942
-- 📚 **Zdeněk Jirotka** – *Saturnin* (1942) – sluha s originálními nápady, nejcitovanější česká humoristická kniha 20. století
+- ✅ **Karel Poláček** – *Bylo nás pět* (1946, posmrtně) – humoristický román o partě pěti chlapců z českého maloměsta vyprávěný optikou nejmladšího Péti Bajzy. Naivní dětský pohled odhaluje komické stránky života dospělých; psáno za války, kontrastuje s tragickým osudem autora (zemřel v koncentračním táboře). Na tvém seznamu.
+- 📚 **Vladislav Vančura** – *Rozmarné léto* (1926), *Markéta Lazarová* (1931) – meziválečný experimentátor s jazykem. *Rozmarné léto* je lyrická novela o třech přátelích v malém lázeňském městečku, kterým spočine nuda až do příjezdu kouzelníka Arnoštka a jeho krásné Anny. *Markéta Lazarová* je archaicky stylizovaná balada o lásce uprostřed loupežnických rodů ve středověku; Vančuru nacisté popravili roku 1942 za odbojovou činnost.
+- 📚 **Zdeněk Jirotka** – *Saturnin* (1942) – jedna z nejcitovanějších českých humoristických knih 20. století. Geniální sluha Saturnin s nekonečnou trpělivostí a originálními nápady řeší krize svého pána a jeho rodiny (děda, teta Kateřina); psáno v tradici P. G. Wodehouse, s elegantním humorem a brilantním jazykem.
 
 ---
 

@@ -24,20 +24,20 @@ updated: "2026-05-21"
 - Žije v Oslu
 
 **Další díla (série Harry Hole):**
-- *Netopýr* (Flaggermusmannen, 1997) - první díl série, odehrává se v Austrálii
-- *Švábi* (Kakerlakkene, 1998) - druhý díl, Thajsko
-- *Červenka* (Rødstrupe, 2000)
-- *Nemesis* (2002)
-- *Pentagram* (Marekors, 2003)
-- *Spasitel* (Frelseren, 2005)
-- *Levhart* (Panserhjerte, 2009)
-- *Přízrak* (Gjenferd, 2011)
-- *Policie* (Politi, 2013)
-- *Žízeň* (Tørst, 2017)
+- *Netopýr* (*Flaggermusmannen*, 1997) – první díl série, odehrává se v Sydney. Harry Hole je vyslán z Norska vyšetřovat vraždu mladé norské dívky; ponoří se do prostředí aboridžinské mytologie a osobně se zaplete s podezřelou.
+- *Švábi* (*Kakerlakkene*, 1998) – druhý díl. Harry vyšetřuje smrt norského velvyslance v thajském bordelu; v Bangkoku se konfrontuje s korupcí, dětskou prostitucí a vlastním alkoholismem.
+- *Červenka* (*Rødstrupe*, 2000) – průlomový díl série a začátek norsko-historické linie. Harry vyšetřuje stopu starého nacistického ostřelovače z norských dobrovolníků na východní frontě; pro Norsko bolestné téma kolaborace.
+- *Nemesis* (2002) – Harry vyšetřuje bankovní loupež s vraždou pokladní; klíčovým podezřelým je jeho přítel z mládí. Mezitím ho pronásleduje vrah z předchozího dílu.
+- *Pentagram* (*Marekors*, 2003; alternativní český název *Ďáblova hvězda*) – sériový vrah zanechává u svých obětí drobné diamanty ve tvaru pětihranu. Pokračování konfliktu Harryho s jeho úhlavním nepřítelem Tomem Waalerem.
+- *Spasitel* (*Frelseren*, 2005) – nájemný vrah z Chorvatska zastřelí v centru Osla muže od Armády spásy; Harry sleduje stopu do válečných zločinů z balkánské války. Vstupuje sem Harryho budoucí partnerka Rakel.
+- *Levhart* (*Panserhjerte*, 2009) – v Norsku řádí psychopat, který používá zařízení zvané „leopolďs apple" (železná koule s jehlami, kterou strčí oběti do úst). Harry se vrací z hongkongského azylu, aby pomohl s vyšetřováním.
+- *Přízrak* (*Gjenferd*, 2011) – Oleg, syn Harryho lásky Rakel, je obviněn z vraždy spojené s novou drogou „violin". Harry se vrací do Osla po třech letech, aby vyšetřoval a očistil chlapcovo jméno.
+- *Policie* (*Politi*, 2013) – sériový vrah cílí na policisty na místech jejich neuzavřených starých případů. Po dramatickém závěru *Přízraku* zde Harry hraje jen okrajovou roli, dokud se nevrátí.
+- *Žízeň* (*Tørst*, 2017) – v Oslu řádí vrah, který svým obětem vysává krev železnými zubními protézami. Harry je povolán z předčasného důchodu; čelí svému dávnému nepříteli a vlastnímu strachu o rodinu.
 
 **Další díla mimo sérii:**
-- *Lovci hlav* (Hodejegerne, 2008) - samostatný thriller
-- *Doktor Proktor* - série dětských knih
+- *Lovci hlav* (*Hodejegerne*, 2008) – samostatný thriller o Rogeru Brownovi, úspěšném personalistovi, který si přivydělává krádeží uměleckých děl. Když narazí na nemilosrdného bývalého žoldáka, začne smrtelná honička; zfilmováno (2011).
+- *Doktor Proktor* – populární série dětských knih o roztržitém profesoru Proktorovi, který vynalezne „prdící prášek". Lehčí, dobrodružná tvář Nesbøho pera.
 
 ---
 
@@ -57,9 +57,9 @@ updated: "2026-05-21"
 - Kombinace kriminální zápletky s osobním příběhem vyšetřovatele
 
 **Další zástupci:**
-- 📚 **Lars Kepler** (švédský pseudonym manželského páru Alexandra Coelho Ahndoril & Alexander Ahndoril) - série o detektivu Joonu Linnovi: *Hypnotizér* (2009), *Stalker* (2014) - severský psychologický thriller
-- 📚 **Haruki Murakami** - *Norské dřevo* (1987), *Kafka na pobřeží* (2002) - světově nejčtenější současný japonský autor, magicko-realistický román
-- 📚 **Cormac McCarthy** - *Cesta* (2006, Pulitzerova cena), *Tahle země není pro starý* (2005) - současná americká próza, biblicky strohý styl
+- 📚 **Lars Kepler** (švédský pseudonym manželů Alexandry Coelho Ahndoril a Alexandera Ahndorila) – série o policejním inspektoru Joonu Linnovi. *Hypnotizér* (2009) je o psychiatrovi, kterého povolají k traumatizovanému svědkovi krvavé vraždy, a hypnóza odhalí, že chlapec byl jedním z útočníků. *Stalker* (2014) sleduje vraha, který natáčí své oběti přes okna. Severský psychologický thriller.
+- 📚 **Haruki Murakami** – *Norské dřevo* (1987), *Kafka na pobřeží* (2002) – světově nejčtenější současný japonský autor. *Norské dřevo* je nostalgický román o studentovi Tóru Watanabem a jeho lásce k melancholické Naoko v Tokiu konce 60. let; titul je odkazem na píseň Beatles. *Kafka na pobřeží* je magicko-realistický román o útěku patnáctiletého chlapce, kočkomluvném starci a oidipovském proroctví.
+- 📚 **Cormac McCarthy** – *Cesta* (2006, Pulitzerova cena), *Tahle země není pro starý* (2005) – současná americká próza, biblicky strohý styl bez uvozovek. *Cesta* zobrazuje otce a syna putujícího postapokalyptickou Amerikou plnou kanibalů. *Tahle země není pro starý* je krimi-western o Llewellyn Mossovi, který najde v poušti drogové peníze, a o psychopatickém zabijákovi Antonu Chigurhovi (bratři Coenové zfilmovali 2007).
 
 ---
 

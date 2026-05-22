@@ -23,10 +23,10 @@ updated: "2026-05-21"
 - Zemřel v Moskvě za nejasných okolností (odmítal jíst, psychické problémy).
 
 **Další díla:**
-- *Mrtvé duše* (satirický román -- Čičikov skupuje "mrtvé duše" nevolníků)
-- *Večery na samotě u Dikaňky* (povídky z ukrajinského venkova, folklor, humor)
-- *Petrohradské povídky* (povídky z městského prostředí -- *Plášť*, *Nos*, *Nevský prospekt*)
-- *Taras Bulba* (historická novela o kozácích)
+- *Mrtvé duše* (1842) – satirický román, vrchol Gogolovy tvorby. Vychytralý podvodník Čičikov projíždí provinciálním Ruskem a skupuje od statkářů „mrtvé duše" – nevolníky, kteří už zemřeli, ale formálně se evidují do sčítání. Galerie ruských statkářů (Manilov, Korobočka, Sobakevič, Pljuškin) je nesmrtelnou typologií ruské povahy.
+- *Večery na samotě u Dikaňky* (1831–1832) – cyklus povídek z ukrajinského venkovského prostředí; folklor, lidové pověry, čerti, kozáci. Romanticko-humoristické vyprávění proslavilo Gogola („Noc před Vánocem", „Sorocinský trh").
+- *Petrohradské povídky* (1835–1842) – cyklus povídek z velkoměsta zobrazující osamělé úředníky a „malé lidi". *Plášť* (nešťastný písař Akakij Akakijevič šetří na nový plášť), *Nos* (úředníkovi se odpojí nos a žije vlastním životem), *Nevský prospekt* (procházka centrem města a deziluze).
+- *Taras Bulba* (1835/1842) – historická novela o ukrajinských kozácích v 16.–17. století. Starý kozák Taras Bulba se synem Ondřejem a Ostapem bojuje proti Polákům; když mladší syn z lásky přejde k nepříteli, otec ho vlastnoručně zastřelí. Hrdinská epika o ukrajinské svobodě.
 
 ---
 
@@ -41,9 +41,9 @@ updated: "2026-05-21"
   - Zájem o "malého člověka" a jeho místo ve společnosti.
   - Humor jako prostředek kritiky.
 - **Další zástupci:**
-  - 📚 Lev Nikolajevič Tolstoj (*Anna Karenina*, 1878; *Vojna a mír*, 1869) -- vrchol ruského realismu
-  - 📚 Honoré de Balzac (*Otec Goriot*, 1835) -- francouzský realismus, cyklus Lidská komedie
-  - 📚 Charles Dickens (*Oliver Twist*, 1838) -- anglický realismus, kritika sociálních poměrů viktoriánské Anglie
+  - 📚 Lev Nikolajevič Tolstoj (*Anna Karenina*, 1878; *Vojna a mír*, 1869) – vrchol ruského realismu. *Anna Karenina* zobrazuje vdanou ženu z petrohradské společnosti, která pro vášnivý vztah s hrabětem Vronským obětuje rodinu a nakonec spáchá sebevraždu pod vlakem. *Vojna a mír* je monumentální historická freska o ruské společnosti za napoleonských válek.
+  - 📚 Honoré de Balzac (*Otec Goriot*, 1835) – francouzský realismus, součást monumentálního cyklu *Lidská komedie* (přes 90 románů zachycujících celou společnost). *Otec Goriot* je tragédie pařížského kupce, který obětuje vše pro své dcery a ony ho odvrhnou; ústřední postavou je i kariérista Rastignac.
+  - 📚 Charles Dickens (*Oliver Twist*, 1838) – anglický realismus a kritika sociálních poměrů viktoriánské Anglie. Osud sirotka Olivera, který uteče z chudobince do Londýna, kde ho zločinec Fagin zatáhne do zlodějské bandy; nakonec se ukáže Oliverův šlechtický původ. Ostrá kritika dětské bídy a viktoriánských institucí.
 
 ---
 

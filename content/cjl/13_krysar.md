@@ -24,14 +24,14 @@ updated: "2026-05-21"
 - Celoživotně psal o konfliktu jedince se společností, o zklamání a osamělosti
 
 **Další díla:**
-- *Zmoudření Dona Quijota* (1913) - drama, přepracování cervantesovského motivu
-- *Milá sedmi loupežníků* (1906) - balada v próze
-- *Satiry a sarkasmy* (1905) - sbírka satirických básní
-- *Marnosti* (1906) - básnická sbírka
-- *Pohádky z naší vesnice* (1910) - ironické prózy
-- *Devátá vlna* (1930) - básnická sbírka
-- *Země mluví* (1907) - vlastenecká báseň (známý verš: „Opustíš-li mne, nezahynu. Opustíš-li mne, zahyneš.")
-- *Píseň o Vinetě* (balada) - motiv potopeného města
+- *Zmoudření Dona Quijota* (1913) – pětiaktové drama, Dykovo přepracování cervantesovského motivu. Don Quijote v závěru života „prozře" – uvědomí si, že jeho rytířská dobrodružství byla iluze, a tento okamžik „zmoudření" ho zlomí a usmrtí. Tragédie o střetu snu a reality.
+- *Milá sedmi loupežníků* (1906) – krátká báseň-balada o krásné dívce, kterou si v lese drží sedm loupežníků; ona miluje sedmého (nejmladšího), ale on ji zabije, aby si ji nikdo jiný nevzal. Jeden z nejznámějších Dykových textů, často zhudebňován.
+- *Satiry a sarkasmy* (1905) – ranní sbírka satirických básní mířících na soudobou českou společnost, politiku a malost. Ironický, kousavý Dyk známý z buřičského období.
+- *Marnosti* (1906) – melancholická lyrika o pomíjivosti, zklamání a marnosti lidských snah. Tematicky blízko *Krysařovi*; titul odkazuje k biblickému „marnost nad marnost".
+- *Pohádky z naší vesnice* (1910) – ironické prózy ve formě pohádek, ale s ostře satirickým obsahem. Kritika maloměšťácké morálky a politické situace prvorepublikové Čechy.
+- *Devátá vlna* (1930) – jedna z posledních Dykových básnických sbírek, reflexivní lyrika o životě, smrti a vlasti; titul odkazuje k pověře, že devátá vlna je nejsilnější.
+- *Země mluví* (vyšlo 1916 ve sbírce *Okno*) – krátká vlastenecká báseň, ve které sama země promlouvá k synovi-Čechovi a žádá ho o věrnost. Známý verš: „Opustíš-li mne, nezahynu. Opustíš-li mne, zahyneš."
+- *Píseň o Vinetě* (1907) – romantická balada o legendárním slovanském městě Vinetě, které pohltilo moře pro hříchy obyvatel. Motiv potopeného města jako symbolu trestu a ztracené slávy.
 
 ---
 
@@ -55,9 +55,9 @@ updated: "2026-05-21"
 - Inspirace klasickými a mytologickými náměty
 
 **Další zástupci:**
-- ✅ **František Gellner** - *Po nás ať přijde potopa* (1901), *Radosti života* (1903) - bohémský revoltér, anarchistická poezie, padl na frontě 1. sv. války (na tvém seznamu)
-- 📚 **Petr Bezruč** - *Slezské písně* (1909) - sociální poezie o útlaku Slezanů, chudobě, práci v dolech
-- **Stanislav Kostka Neumann** - *Kniha lesů, vod a strání* (1914), *Nové zpěvy* (1918) - anarchista, vitalismus, organizační střed buřičů kolem časopisu Nový kult
+- ✅ **František Gellner** – *Po nás ať přijde potopa* (1901), *Radosti života* (1903) – bohémský revoltér, anarchistická poezie. Provokativní básně o hospodách, alkoholu, erotice a generační lhostejnosti („Po nás ať přijde potopa"); titul je parafráze výroku připisovaného Ludvíku XV. Gellner padl/zmizel na haličské frontě 1. světové války (na tvém seznamu).
+- 📚 **Petr Bezruč** – *Slezské písně* (1909) – jediná Bezručova sbírka, ale klíčové dílo české sociální poezie. Drsná lyrika o útlaku Slezanů germanizací a polonizací, o bídě hornické práce v ostravsko-karvinských dolech; básnické „já" mluví za celý utiskovaný národ (např. *Maryčka Magdónova*, *Kantor Halfar*).
+- **Stanislav Kostka Neumann** – *Kniha lesů, vod a strání* (1914), *Nové zpěvy* (1918) – organizační střed buřičů kolem časopisu Nový kult. *Kniha lesů* je vitalistická lyrika oslavující přírodu a smyslové prožitky; *Nové zpěvy* zase oslavují techniku, moderní město a civilizaci. Anarchista, později se přiklonil ke komunismu.
 
 ---
 

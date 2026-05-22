@@ -27,10 +27,10 @@ updated: "2026-05-21"
 - Typický představitel pražské bohémy, nekonvenční životní styl
 
 **Další díla:**
-- *Povídky* - stovky humoristických povídek a humoresek pro časopisy
-- *Dobrý voják Švejk a jiné podivné historky* (1911) - první povídky o Švejkovi
-- *Dějiny strany mírného pokroku v mezích zákona* (napsáno 1911, vydáno posmrtně)
-- *Velitelem města Bugulmy* (1921) - povídky z Ruska
+- *Povídky* – stovky humoristických povídek a humoresek publikovaných v desítkách časopisů (Národní listy, Karikatury, Svět zvířat). Hašek psal o pražské bohémě, hospodských historkách, anarchistických rebeliích i o exotických zvířatech, která si občas zcela vymýšlel jako redaktor *Světa zvířat*.
+- *Dobrý voják Švejk a jiné podivné historky* (1911) – první povídky, ve kterých se objevuje postava Švejka. Krátké, ještě před válkou napsané humoresky, kde Švejk slouží v armádě v míru; tato verze se od pozdějšího slavného románu liší tónem (víc anekdotická, méně satirická).
+- *Dějiny strany mírného pokroku v mezích zákona* (napsáno 1911, vydáno posmrtně 1963) – Hašek skutečně založil v hospodě U zlatého litru fiktivní satirickou stranu, která kandidovala v Říšské radě. Kniha je parodií politické rétoriky a paměti veškerého politického života Rakouska-Uherska.
+- *Velitelem města Bugulmy* (1921) – povídky čerpající z Haškových zážitků v ruské občanské válce, kde jako bolševický komisař skutečně velel městu Bugulma v Tatarstánu. Komické střety mezi byrokracií, anarchií a vlastní snahou o pořádek.
 
 ---
 
@@ -48,9 +48,9 @@ updated: "2026-05-21"
 - Hovorový jazyk, autentičnost prostředí
 
 **Další zástupci:**
-- ✅ **Erich Maria Remarque** - *Na západní frontě klid* (1929), *Tři kamarádi* (1938) - německá ztracená generace, hřbitovy zákopu, antiválečný román (na tvém seznamu)
-- 📚 **Ernest Hemingway** - *Sbohem, armádo* (1929), *Komu zvoní hrana* (1940), *Stařec a moře* (1952) - americká ztracená generace, Nobelova cena 1954
-- 📚 **Romain Rolland** - *Petr a Lucie* (1920) - francouzský pacifista, antiválečný protest, Nobelova cena 1915
+- ✅ **Erich Maria Remarque** – *Na západní frontě klid* (1929), *Tři kamarádi* (1936) – německá ztracená generace, hřbitovy zákopů, antiválečný román. *Na západní frontě klid* sleduje skupinu německých středoškoláků, kteří narukovali do 1. světové války z vlasteneckého nadšení a postupně se rozplynou v anonymních zákopových bojích. Diametrálně odlišný přístup k válce než Hašek (tragédie místo satiry). Na tvém seznamu.
+- 📚 **Ernest Hemingway** – *Sbohem, armádo* (1929), *Komu zvoní hrana* (1940), *Stařec a moře* (1952) – americká ztracená generace. *Sbohem, armádo* je autobiografický román o americkém řidiči sanitky na italské frontě 1. světové války a jeho lásce k anglické zdravotní sestře Catherine. Úsporný „hemingwayovský" styl. Nobelova cena 1954.
+- 📚 **Romain Rolland** – *Petr a Lucie* (1920) – francouzský pacifista, antiválečný protest. Krátká novela o mladém Petrovi a Lucii, kteří se v Paříži zamilují uprostřed bombardování za 1. světové války; jejich krátká, čistá láska končí, když oba zahynou při útoku v kostele na Velký pátek 1918. Nobelova cena 1915.
 
 ---
 

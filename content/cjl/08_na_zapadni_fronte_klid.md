@@ -29,12 +29,12 @@ updated: "2026-05-21"
 
 ### Další díla
 
-- **Cesta zpátky** (1931) – návrat vojáků z fronty do civilního života
-- **Tři kamarádi** (1936) – přátelství v Německu po 1. světové válce
-- **Vítězný oblouk** (1945) – osud emigranta v Paříži
-- **Čas žít, čas umírat** (1954) – 2. světová válka
-- **Noc v Lisabonu** (1962) – útěk z nacistického Německa
-- **Jiskra života** (1952) – o koncentračním táboře
+- **Cesta zpátky** (1931) – přímé pokračování *Na západní frontě klid*; sleduje vojáky vracející se z fronty do civilního Německa po 1. světové válce. Ukazuje, jak se „ztracená generace" nedokáže zapojit zpět do běžného života – nezaměstnanost, traumata, sebevraždy a politický chaos Výmarské republiky.
+- **Tři kamarádi** (1936) – tři přátelé Robby, Otto a Lenz (veteráni z fronty) provozují malou autoopravnu v Berlíně 30. let. Robby se zamiluje do těžce nemocné Pat; melancholický román o přátelství, lásce a nadcházejícím nacismu.
+- **Vítězný oblouk** (1945) – v Paříži krátce před vypuknutím 2. světové války žije Ravic, německý lékař-emigrant, který tajně operuje, miluje záhadnou Joan Madouovou a pronásleduje gestapáka, jenž ho mučil. Atmosféra strachu na prahu války.
+- **Čas žít, čas umírat** (1954) – německý voják Ernst Graeber se za druhé světové války vrací z východní fronty na dovolenou domů, kde nachází své město v troskách po bombardování. Krátká láska s Elisabeth a tragický konec po návratu na frontu.
+- **Noc v Lisabonu** (1962) – v lisabonském přístavu se setkají dva němečtí emigranti čekající na loď do Ameriky. Jeden vypráví druhému příběh svého úniku z nacistického Německa s manželkou Helenou, která se mu vzdala, ale chtěla zemřít.
+- **Jiskra života** (1952) – život v koncentračním táboře v posledních měsících války. Vězeň 509, kostlivec s číslem, najde na konci sil „jiskru života" a naději na osvobození; vychází z autorovy snahy zpracovat osud sestry Elfriede, popravené nacisty.
 
 ---
 
@@ -61,9 +61,9 @@ updated: "2026-05-21"
 
 ### Další zástupci
 
-- ✅ **Jaroslav Hašek** – „Osudy dobrého vojáka Švejka" (1921–23) – česká antimilitaristická satira, pikareskní román (na tvém seznamu)
-- 📚 **Ernest Hemingway** – „Sbohem, armádo" (1929), „Komu zvoní hrana" (1940), „Stařec a moře" (1952) – americká ztracená generace, Nobelova cena 1954
-- 📚 **Romain Rolland** – „Petr a Lucie" (1920) – francouzský pacifista, antiválečný protest, Nobelova cena 1915
+- ✅ **Jaroslav Hašek** – „Osudy dobrého vojáka Švejka" (1921–23) – česká antimilitaristická satira, nedokončený pikareskní román o pražském obchodníkovi se psy, který narukuje do rakousko-uherské armády a svou „blbou" poslušností odhaluje absurditu vojenského systému. Diametrálně odlišný přístup k válce než Remarque (satira místo tragédie). Na tvém seznamu.
+- 📚 **Ernest Hemingway** – „Sbohem, armádo" (1929), „Komu zvoní hrana" (1940), „Stařec a moře" (1952) – americká ztracená generace. *Sbohem, armádo* je autobiografický román o americkém řidiči sanitky na italské frontě 1. světové války a jeho lásce k anglické zdravotní sestře Catherine. Úsporný „hemingwayovský" styl. Nobelova cena 1954.
+- 📚 **Romain Rolland** – „Petr a Lucie" (1920) – francouzský pacifista, antiválečný protest. Krátká novela o mladém Petrovi a Lucii, kteří se v Paříži zamilují uprostřed bombardování za 1. světové války; jejich krátká, čistá láska končí, když oba zahynou při útoku v kostele na Velký pátek 1918. Nobelova cena 1915.
 
 ---
 

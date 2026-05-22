@@ -22,10 +22,25 @@ updated: "2026-05-21"
 - Napsal přibližně 37 her, 154 sonetů a několik delších básní.
 
 **Další díla:**
-- Tragédie: *Hamlet*, *Othello*, *Macbeth*, *Král Lear*
-- Komedie: *Sen noci svatojánské*, *Zkrocení zlé ženy*, *Kupec benátský*, *Mnoho povyku pro nic*
-- Historické hry: *Richard III.*, *Jindřich V.*
-- Sonety (154 sonetů)
+
+*Tragédie:*
+- *Hamlet* (kolem 1600) – dánský princ váhá s pomstou vraha svého otce; nejslavnější Shakespearovo dílo o pochybnostech, šílenství a smrti („Být či nebýt").
+- *Othello* (1603) – maurský velitel zavraždí svou ženu Desdemonu, kterou na jeho zbabělci Jago intrikami obviní z nevěry; tragédie žárlivosti a manipulace.
+- *Macbeth* (1606) – skotský šlechtic se na popud čarodějnic a manželky stane královrahem; studie morálního úpadku a politické moci.
+- *Král Lear* (1606) – stárnoucí král rozdělí říši mezi dvě úlisné dcery a vyžene nejmladší upřímnou Cordelii; tragédie nevděku a zešílení v bouři.
+
+*Komedie:*
+- *Sen noci svatojánské* (kolem 1595) – komedie omylů s vílami v lese; kouzelný nápoj zaplete dvojice milenců a herce nacvičující hru.
+- *Zkrocení zlé ženy* (kolem 1592) – Petruccio si vezme svárlivou Kateřinu a postupně ji „zkrotí"; kontroverzní komedie o manželství.
+- *Kupec benátský* (kolem 1597) – kupec Antonio si půjčí peníze od židovského lichváře Shylocka, který si vymíní libru jeho masa; známá soudní scéna o milosrdenství.
+- *Mnoho povyku pro nic* (kolem 1599) – dvě dvojice milenců, jedna ostře vtipná (Beatrice a Benedick), druhá zaplete intrika obviňující nevěstu z nevěry.
+
+*Historické hry:*
+- *Richard III.* (kolem 1593) – ambiciózní hrbáč se intrikami a vraždami dostane na anglický trůn a padne v bitvě u Bosworthu; portrét tyrana.
+- *Jindřich V.* (kolem 1599) – mladý král vede Angličany k vítězství u Azincourtu (1415) proti Francii; oslava panovnické autority a vlastenectví.
+
+*Poezie:*
+- *Sonety* (vydáno 1609) – 154 milostných sonetů, mnohé adresované záhadnému „krásnému mladíkovi" a „temné dámě"; vrchol anglické renesanční lyriky.
 
 ---
 
@@ -40,9 +55,9 @@ updated: "2026-05-21"
   - V divadle: směšování tragického a komického, bohatá poetická mluva, prolínání veršů a prózy.
   - Divadlo jako hlavní forma zábavy a umění.
 - **Další zástupci:**
-  - 📚 Giovanni Boccaccio (*Dekameron*, 1353) -- italská renesance, zakladatelské dílo evropské novely
-  - Francesco Petrarca (*Zpěvník / Canzoniere*) -- italská renesance, otec evropské lyriky, standardizoval sonet
-  - 📚 Miguel de Cervantes (*Důmyslný rytíř Don Quijote de la Mancha*, 1605) -- španělská renesance, první moderní evropský román
+  - 📚 Giovanni Boccaccio (*Dekameron*, 1353) – italská renesance; sto novel, které si vypráví deset mladých Florenťanů ukrytých před morem na venkově. Tématy jsou láska, erotika, lidská chytrost a kritika církve; zakladatelské dílo evropské novely.
+  - Francesco Petrarca (*Zpěvník / Canzoniere*, 14. století) – italská renesance; sbírka 366 lyrických básní a sonetů věnovaných milované Lauře. Petrarca je otec evropské milostné lyriky a standardizoval formu sonetu (později nazvaného „petrarkovský").
+  - 📚 Miguel de Cervantes (*Důmyslný rytíř Don Quijote de la Mancha*, 1605/1615) – španělská renesance; zchudlý šlechtic Don Quijote zešílí z čtení rytířských románů a se sluhou Sancho Panzou vyrazí na fantazijní výpravy (boj s větrnými mlýny). Považován za první moderní evropský román a parodii rytířské literatury.
 
 ---
 

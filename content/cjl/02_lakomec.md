@@ -23,12 +23,12 @@ updated: "2026-05-21"
 - Považován za zakladatele moderní francouzské komedie.
 
 **Další díla:**
-- *Tartuffe* (kritika pokrytectví a falešné zbožnosti)
-- *Misantrop* (kritika přetvářky ve společnosti)
-- *Zdravý nemocný* (kritika lékařů a hypochondrie)
-- *Škola žen* (komedie o výchově a postavení žen)
-- *Don Juan* (zpracování legendy o svůdníkovi)
-- *Měšťák šlechticem* (kritika snobství)
+- *Tartuffe* (1664) – komedie o falešném zbožném pokrytci Tartuffovi, který se vetře do bohaté rodiny a snaží se svést manželku hostitele a převzít jeho majetek. Kritika pokrytectví a církevního fanatismu; po premiéře dílo zakázáno na pět let.
+- *Misantrop* (1666) – Alceste nesnáší společenské konvence a lži dvora, ale paradoxně miluje koketní Célimene, ztělesnění právě té přetvářky, kterou nenávidí. Hořká komedie o tom, že upřímnost vede k osamělosti.
+- *Zdravý nemocný* (1673) – Argan je posedlý fiktivními nemocemi a chce dceru provdat za doktora, aby měl léčbu zdarma. Satira na lékaře-šarlatány; Molière sám hrál Argana a při čtvrtém představení zkolaboval na jevišti.
+- *Škola žen* (1662) – starý Arnolfe si v izolaci vychovává naivní dívku Anežku, aby z ní udělal poslušnou manželku, ale ona se zamiluje do mladého Horáce. Komedie o ženské emancipaci a marnosti mužského útlaku.
+- *Don Juan* (1665) – zpracování španělské legendy o cynickém svůdníkovi, který odmítá Boha i morálku a nakonec je strhnut do pekla kamennou sochou. Filozofická komedie o ateismu a libertinismu.
+- *Měšťák šlechticem* (1670) – komedie-balet o boháči panu Jourdainovi, který chce za každou cenu vypadat jako šlechtic; učitelé ho komicky vykořisťují, dceři brání ve sňatku s nešlechticem. Satira na snobství a snahu o společenský vzestup.
 
 ---
 
@@ -44,9 +44,9 @@ updated: "2026-05-21"
   - V komedii: typizované postavy, kritika lidských nectností, poučný záměr.
   - Spisovný, uhlazen jazyk.
 - **Další zástupci:**
-  - Jean Racine (*Faidra*, 1677) -- vrchol francouzské klasicistní tragédie, vášeň ničí rozum
-  - Pierre Corneille (*Cid*, 1637) -- zakladatel francouzské klasicistní tragédie, konflikt lásky a cti
-  - Jean de La Fontaine (*Bajky*, 1668–1694) -- klasicistní bajkář, vrstevník Molièra u dvora Ludvíka XIV.
+  - Jean Racine (*Faidra*, 1677) – vrchol francouzské klasicistní tragédie. Faidra (manželka krále Thésea) propadne vášnivé lásce k pastorkovi Hippolytovi; její nepřiznaná vášeň ji ničí a vede ke smrti všech. Téma: nezvládnutá vášeň ničící rozum a řád.
+  - Pierre Corneille (*Cid*, 1637) – zakladatel francouzské klasicistní tragédie. Mladý Rodrigo (Cid) zabije v souboji otce své milované Chimény, aby pomstil čest vlastního otce; oba pak řeší rozpor mezi láskou a povinností. Dílo vyvolalo „Hádku o Cida" o klasicistních pravidlech.
+  - Jean de La Fontaine (*Bajky*, 1668–1694) – dvanáct knih veršovaných bajek čerpajících z Ezopa a Pilpaje (Vlk a beránek, Cikáda a mravenec, Vrána a liška). Klasicistní bajkář, který za alegorií zvířat skrýval kritiku dvora a společnosti; vrstevník Molièra u Ludvíka XIV.
 
 ---
 

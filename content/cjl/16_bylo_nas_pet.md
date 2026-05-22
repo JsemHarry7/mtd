@@ -25,12 +25,11 @@ updated: "2026-05-21"
 - Byl znám svým suchým, ironickým humorem a přesným postřehem pro maloměstské prostředí
 
 **Další díla:**
-- **Muži v offsidu** (1931) — humoristický román ze sportovního prostředí
-- **Okresní město** (od 1936) — románový cyklus z maloměstského prostředí, vydaný jen zčásti
-- **Bylo nás pět** (1946) — posmrtně vydaný román
-- **Hlavní přelíčení** (1927) — román z prostředí soudní síně
-- **Michelup a motocykl** (1935) — humoristická novela
-- Fejetony a sloupky pro Lidové noviny
+- **Muži v offsidu** (1931) — humoristický román ze sportovního fotbalového prostředí. Sleduje pražského obchodníka Načeradce, vášnivého fanouška, a jeho zaměstnance, kteří tráví víkendy na zápasech a v hospodách. Klasika české sportovní humoristiky.
+- **Okresní město** (od 1936) — pětidílný románový cyklus, z něhož autor stihl vydat čtyři díly (*Okresní město*, *Hrdinové táhnou do boje*, *Podzemní město*, *Vyprodáno*; pátý díl *Zachráníš svět?* zničila válka). Mozaika života v podorlickém maloměstě od konce 19. století do 1. světové války, s desítkami postav.
+- **Hlavní přelíčení** (1927) — román z prostředí soudní síně. Sleduje proces s drobným zlodějem a satiricky zobrazuje formalismus, byrokracii a klišé právního systému; Poláček sám pracoval krátce u soudu.
+- **Michelup a motocykl** (1935) — humoristická novela o střízlivém měšťákovi panu Michelupovi, který si v záchvatu touhy po dobrodružství koupí motocykl a komicky ztroskotá. Satira na měšťáckou nudu a touhu po útěku z ní.
+- Fejetony a sloupky pro Lidové noviny — Poláček byl jedním z hlavních fejetonistů Lidových novin (společně s K. Čapkem); psal pravidelné komentáře k politice, sportu i drobným společenským jevům, vyznačoval se přesným pozorováním a suchým humorem.
 
 ---
 
@@ -48,9 +47,9 @@ updated: "2026-05-21"
 - Demokratické hodnoty, humanismus
 
 **Další zástupci:**
-- ✅ **Karel Čapek** — R.U.R. (1920), Válka s mloky (1936), Bílá nemoc (1937) — demokratický proud, sci-fi varování před totalitou (na tvém seznamu)
-- 📚 **Vladislav Vančura** — Rozmarné léto (1926), Markéta Lazarová (1931) — meziválečný čz humor, archaizující jazyková hra; popraven nacisty 1942
-- 📚 **Zdeněk Jirotka** — Saturnin (1942) — sluha s originálními nápady, nejcitovanější česká humoristická kniha 20. století
+- ✅ **Karel Čapek** — *R.U.R.* (1920), *Válka s mloky* (1936), *Bílá nemoc* (1937) — vůdčí osobnost demokratického proudu. *R.U.R.* je drama o vzpouře umělých dělníků (zde se poprvé objevuje slovo „robot"). *Válka s mloky* satiricky líčí, jak lidstvo zneužije inteligentní mloky a oni se vzbouří. *Bílá nemoc* varuje před fašismem skrze podobenství o lékaři odmítajícím léčit válečné štváče. Na tvém seznamu.
+- 📚 **Vladislav Vančura** — *Rozmarné léto* (1926), *Markéta Lazarová* (1931) — meziválečný experimentátor s jazykem. *Rozmarné léto* je lyrická novela o třech přátelích v lázničkách a jejich fascinaci kouzelníkem Arnoštkem a krásnou Annou. *Markéta Lazarová* je archaicky stylizovaná balada o lásce uprostřed loupežnických rodů ve středověku; Vančuru nacisté popravili roku 1942.
+- 📚 **Zdeněk Jirotka** — *Saturnin* (1942) — jedna z nejcitovanějších českých humoristických knih 20. století. Geniální sluha Saturnin s nekonečnou trpělivostí a originálními nápady řeší krize svého pána a jeho rodiny (děda, teta Kateřina); psáno v tradici P. G. Wodehouse, s elegantním humorem a brilantním jazykem.
 
 ---
 
