@@ -240,7 +240,7 @@ Opilý Jones přestane zvířata krmit. Zvířata se spontánně vzbouří, Jone
 Postupně se Napoleon a Kuliš dostávají do konfliktu. Napoleon si vychová hejno agresivních psů. Při hlasování o větrném mlýně Kuliše psi zaženou. Napoleon převezme absolutní moc. Přikázání se začnou tajně přepisovat – např. „Žádné zvíře nezabije jiné zvíře *bez příčiny*". Squealer přesvědčuje zvířata, že vše je v pořádku a Kuliš byl zrádce.
 
 **Teror:**
-Napoleon nechá veřejně popravit zvířata, která „přiznala" spolupráci se Sněhurkou. Podmínky na farmě se zhoršují, ale Squealer tvrdí, že produkce roste. Prasata se nastěhují do domu, pijí alkohol, obchodují s lidmi – vše, co bylo zakázáno. Každé nové porušení přikázání je zpětně „upraveno".
+Napoleon nechá veřejně popravit zvířata, která „přiznala" spolupráci s Kulišem. Podmínky na farmě se zhoršují, ale Squealer tvrdí, že produkce roste. Prasata se nastěhují do domu, pijí alkohol, obchodují s lidmi – vše, co bylo zakázáno. Každé nové porušení přikázání je zpětně „upraveno".
 
 **Boxerův osud:**
 Boxer celý život dře a věří Napoleonovi. Když zestárne a poraní si nohu, prasata ho prodají koňskému řezníkovi. Squealerův lžím, že Boxer zemřel v nemocnici obklopen péčí, věří všechna zvířata.

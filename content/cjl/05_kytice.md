@@ -25,7 +25,7 @@ updated: "2026-05-21"
 
 **Další díla:**
 - *Prostonárodní české písně a říkadla* (1862–1864) – rozsáhlé sběratelské dílo; Erben několik desetiletí sbíral po českém venkově lidové písně, balady, říkadla, zaříkadla i obyčeje. Zásadní pramen pro českou folkloristiku a etnografii.
-- *České pohádky* (vydávané od 50. let 19. století) – soubor lidových pohádek, které Erben sebral a literárně přepracoval. Patří sem *Tři zlaté vlasy děda Vševěda* (chlapec získá kouzelné vlasy proroctví), *Zlatovláska* (Jiřík rozumí řeči zvířat a osvobodí princeznu) a *Dlouhý, Široký a Bystrozraký* (princ s třemi pomocníky-obry osvobodí princezny ze zámku zlého kouzelníka).
+- *České pohádky* (vydávané od 50. let 19. století) – soubor lidových pohádek, které Erben sebral a literárně přepracoval. Patří sem *Tři zlaté vlasy děda Vševěda* (Plaváček získá tři zlaté vlasy věštce-děda Vševěda a tím zruší královo prokletí), *Zlatovláska* (Jiřík ochutná zázračnou rybu, díky níž rozumí řeči zvířat, a osvobodí princeznu Zlatovlásku) a *Dlouhý, Široký a Bystrozraký* (princ s třemi nadpřirozenými pomocníky — Dlouhým, který se umí natáhnout, Širokým, který se umí roztáhnout, a Bystrozrakým, jehož pohled zapaluje — osvobodí princeznu ze zámku zlého kouzelníka).
 - Historické a archivní práce – Erben byl od 1851 archivářem města Prahy a vydával prameny k českým dějinám (např. *Regesta diplomatica nec non epistolaria Bohemiae et Moraviae*). Patřil k vědecké generaci kolem Františka Palackého.
 
 ---
@@ -235,7 +235,7 @@ Vodník si vezme lidskou dívku a odvede ji pod jezero. Mají spolu dítě. Dív
 Žena je tajemně spojena se starou vrbou -- její duše jako by sídlila v tomto stromu. Když muž nechá vrbu porazit, žena umírá. Motiv: magické propojení člověka a přírody.
 
 ### Lilie (11.)
-Mrtvá dívka se po smrti promění v lilii a znovu ožívá díky lásce kralevice. Báseň spojuje čistotu, krásu a křehkost života s pohádkově laděným příběhem.
+Mladá dívka před smrtí prosí, aby byla pohřbena u lesa; na jejím hrobě vyroste lilie. Pán (šlechtic) ji při lovu utrhne a v jeho domě se z lilie promění zpět v ženu — ale jen pod podmínkou, že ji bude chránit před sluncem. Vezme si ji a mají dítě; když musí pán odjet ke králi, jeho matka nechá ochrannou stěnu strhnout — žena i dítě umírají. Pán matku za zradu prokleje. Tragická balada o porušení slibu a trestu.
 
 ### Dceřina kletba (12.)
 Zoufalá dcera, svedená a opuštěná, viní matku z vlastní zkázy a proklíná ji i sebe. Krátká, prudká báseň o vině, zoufalství a zpřetrhaných rodinných vazbách.

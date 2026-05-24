@@ -99,7 +99,7 @@ updated: "2026-05-21"
 ## 5. Časoprostor
 
 - **Čas:** neurčitý (konec 30. let 20. století), děj trvá přibližně **3–4 dny**
-- **Prostor:** **Černouškovský ostrov** (Soldier Island) u pobřeží Devonu v Anglii
+- **Prostor:** **Černochův ostrov** (orig. *Soldier Island*; též překlad *Indiánský ostrov*) u pobřeží Devonu v Anglii
 - Ostrov je malý, izolovaný, bez možnosti spojení s pevninou (bouře přeruší kontakt)
 - Velký moderní dům na ostrově – luxusní, ale nepříjemný
 - **Uzavřený prostor** (tzv. locked room mystery) – nikdo se nemůže dostat na ostrov ani z něj
@@ -145,7 +145,7 @@ updated: "2026-05-21"
 ### Hlavní postavy
 
 - **Soudce Lawrence Wargrave** – důstojný, inteligentní, penzionovaný soudce; skrytý organizátor celé akce; jeho „vinou" je, že manipulativně dovedl porotu k odsouzení Edwarda Setona k smrti (Seton byl pravděpodobně skutečně vinen, ale bez Wargravova zaujatého shrnutí mohl být osvobozen); chladnokrevný, metodický
-- **Vera Claythornová** – mladá učitelka, atraktivní, inteligentní; nechala utopit malého chlapce Cyrila, aby její milenec zdědil majetek; trpí výčitkami svědomí; poslední oběť
+- **Vera Claythornová** – mladá vychovatelka (guvernantka), atraktivní, inteligentní; nechala utopit svého svěřence – malého chlapce Cyrila – aby její milenec Hugo zdědil rodinný majetek; trpí výčitkami svědomí; poslední oběť
 - **Philip Lombard** – bývalý voják, dobrodruh, cynický a nebezpečný; nechal zemřít 21 afrických domorodců; jako jediný má u sebe zbraň
 
 ### Vedlejší postavy
@@ -221,7 +221,7 @@ updated: "2026-05-21"
 
 ### Úvod
 
-Deset navzájem cizích lidí různého společenského postavení dostane pozvání na **Černouškovský ostrov** (Soldier Island) u pobřeží Devonu. Každý dostal pozvánku pod jiným jménem nebo záminkou od tajemného pána **U. N. Owena** (Unknown = Neznámý). Na ostrově je čeká moderní, luxusně vybavený dům, který obsluhují manželé Rogersovi.
+Deset navzájem cizích lidí různého společenského postavení dostane pozvání na **Černochův ostrov** (orig. *Soldier Island*; též překlad *Indiánský ostrov*) u pobřeží Devonu. Každý dostal pozvánku pod jiným jménem nebo záminkou od tajemného pána **U. N. Owena** (Unknown = Neznámý). Na ostrově je čeká moderní, luxusně vybavený dům, který obsluhují manželé Rogersovi.
 
 ### Zápletka
 

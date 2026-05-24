@@ -38,7 +38,7 @@ updated: "2026-05-21"
 - Stálá scéna v Žižkovském divadle
 
 **Další hry Divadla Járy Cimrmana:**
-- **Akt** (1967) — vůbec první hra Divadla Járy Cimrmana, jednoaktovka „nalezená v Cimrmanově pozůstalosti". Parodie na konverzační drama a milostné trojúhelníky 19. století; postavy v salónním prostředí řeší obraz nahého aktu, který nikdo nesměl spatřit.
+- **Akt** (premiéra 4. 10. 1967) — vůbec první hra Divadla Járy Cimrmana, jednoaktovka „nalezená v Cimrmanově pozůstalosti". Komedie o manželské krizi a žárlivosti rozpoutané kolem aktové fotografie/obrazu; parodie konverzačních dramat měšťanské éry.
 - **Hospoda Na mýtince** (1969) — komedie ze 19. století o Liptákovech, kteří provozují horskou hospodu, a jejich neobvyklých hostech. Slavná pro výstřednost postav (vrchního Karla Infelda Prácheňského, generála Brodského) a typický „cimrmanovský" jazyk plný archaismů.
 - **Dobytí severního pólu** (1985) — Cimrman a jeho tým (Učitel Frištenský, lékárník Šofr, náčelník Beran, badatel Voženil) se vydávají dobýt severní pól pěšky bez polárního výcviku. Tragikomická parodie polárních expedic; konec mrazivě komický (postavy mrznou na místě).
 - **Záskok** (1994) — hra v rámci hry. Soubor venkovských ochotníků nacvičil Cimrmanovo drama *Vlasta*, ale v poslední chvíli musí všechny role zaskakovat jediný herec Vlasta Brodský. Parodie na divadelní zákulisí a amatérské divadlo.
@@ -270,7 +270,7 @@ Hra je satirou na **byrokracii, hierarchii a úřednické myšlení**. Banální
 
 ---
 
-*Poznámka k maturitě: Zdůrazněte specifickou strukturu cimrmanovských her (seminář + hra). Humor je založen na ironu, parodii a absurditě — NE na vulgaritě. Jára Cimrman je důsledná mystifikace — fiktivní postava prezentovaná jako reálná. Celé Divadlo Járy Cimrmana je unikátní fenomén české kultury. V anketě „Největší Čech" (2005) Cimrman zvítězil, ale musel být vyřazen, protože neexistuje.*
+*Poznámka k maturitě: Zdůrazněte specifickou strukturu cimrmanovských her (seminář + hra). Humor je založen na ironii, parodii a absurditě — NE na vulgaritě. Jára Cimrman je důsledná mystifikace — fiktivní postava prezentovaná jako reálná. Celé Divadlo Járy Cimrmana je unikátní fenomén české kultury. V anketě „Největší Čech" (2005) Cimrman v diváckém hlasování suverénně vedl, ale byl vyřazen, protože pravidla pořadu ČT vyžadovala reálnou historickou osobu (vítězem se nakonec stal Karel IV.).*
 
 ---
 
@@ -280,7 +280,7 @@ Hra je satirou na **byrokracii, hierarchii a úřednické myšlení**. Banální
 *„Vyšetřování ztráty třídní knihy je absurdní komedie, kde banální problém (ztráta třídnice) je řešen s vážností detektivního případu – a přitom se nic nevyřeší."*
 
 **Co vždy zaujme zkoušejícího:**
-- **Jára Cimrman je fiktivní postava** – skutečný génius, který nikdy neexistoval. Svěrák a Smoljak ho vymysleli. V anketě ČT byl zvolen největším Čechem všech dob – pak ho diskvalifikovali, protože neexistuje.
+- **Jára Cimrman je fiktivní postava** – „skutečný génius", který nikdy neexistoval. Svěrák a Smoljak ho vymysleli. V anketě ČT *Největší Čech* (2005) v diváckém hlasování suverénně vedl, ale byl vyřazen z finále, protože pravidla vyžadovala reálnou osobu (vyhrál Karel IV.).
 - **Absurdita jako literární metoda**: triviální problém (ztráta třídní knihy) je řešen jako vražda. Tím je parodována byrokracie, pedanterie a přehnaná vážnost institucí.
 - Hry Divadla Járy Cimrmana mají vždy **dvoudílnou strukturu**: „seminář" (přednáška o Cimrmanovi) + „hra" (divadelní představení). To je unikátní dramatická forma.
 

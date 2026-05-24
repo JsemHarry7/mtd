@@ -25,7 +25,7 @@ updated: "2026-05-21"
 
 *Tragédie:*
 - *Hamlet* (kolem 1600) – dánský princ váhá s pomstou vraha svého otce; nejslavnější Shakespearovo dílo o pochybnostech, šílenství a smrti („Být či nebýt").
-- *Othello* (1603) – maurský velitel zavraždí svou ženu Desdemonu, kterou na jeho zbabělci Jago intrikami obviní z nevěry; tragédie žárlivosti a manipulace.
+- *Othello* (1603) – maurský velitel zavraždí svou ženu Desdemonu, kterou mu jeho úskočný podřízený (praporčík) Jago intrikami obviní z nevěry s důstojníkem Cassiem; tragédie žárlivosti a manipulace.
 - *Macbeth* (1606) – skotský šlechtic se na popud čarodějnic a manželky stane královrahem; studie morálního úpadku a politické moci.
 - *Král Lear* (1606) – stárnoucí král rozdělí říši mezi dvě úlisné dcery a vyžene nejmladší upřímnou Cordelii; tragédie nevděku a zešílení v bouři.
 

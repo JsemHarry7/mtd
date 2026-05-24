@@ -17,7 +17,7 @@ updated: "2026-05-21"
 
 - Český básník, prozaik, malíř, karikaturista a novinář
 - Narozen v Mladé Boleslavi v židovské rodině
-- Studoval na technice v Praze, poté v Mnichově a ve Vídni; studoval i malířství
+- Studoval techniku ve Vídni (od 1899), pak hornickou akademii v Příbrami (od 1901), později strojní inženýrství v Mnichově; malířství v Drážďanech a Paříži
 - Vedl bohémský, tulácký život – cestoval po Evropě, žil v Paříži
 - Přispíval do anarchistických a satirických časopisů (Nový kult, Karikatury, Lidové noviny)
 - Za 1. světové války narukoval jako válečný zpravodaj; v září 1914 zmizel beze stopy na haličské frontě – pravděpodobně padl

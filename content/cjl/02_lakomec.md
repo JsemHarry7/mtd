@@ -114,7 +114,7 @@ updated: "2026-05-21"
 ## 9. Postavy
 
 **Hlavní postava:**
-- **Harpagon** -- bohatý stárnoucí vdovec, chorobně lakomý. Miluje peníze víc než vlastní děti. Půjčuje na lichvářský úrok. Je podezíravý, despotický a směšný. Typizovaná postava -- ztělesnění jedné vlastnosti (lakota). Jméno odvozeno z latinského *harpago* (dravec).
+- **Harpagon** -- bohatý stárnoucí vdovec, chorobně lakomý. Miluje peníze víc než vlastní děti. Půjčuje na lichvářský úrok. Je podezíravý, despotický a směšný. Typizovaná postava -- ztělesnění jedné vlastnosti (lakota). Jméno je odvozeno z latinského *harpago* (hák, kotva; uchvatitel, lupič — z řec. ἁρπάζω = uchvátit).
 
 **Vedlejší postavy:**
 - **Kleant** -- Harpagonův syn, miluje Marianu. Je zadlužený, protože otec mu nedává peníze. Odvážný, ochotný se otci postavit.

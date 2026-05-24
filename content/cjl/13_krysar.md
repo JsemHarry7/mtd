@@ -20,7 +20,7 @@ updated: "2026-05-21"
 - Aktivní v politice - člen Národní demokracie, senátor, výrazný nacionalista
 - Patřil ke generaci anarchistických buřičů, ale jeho tvorba je formálně novoklasicistní
 - Osobní rozpor: buřičský obsah vs. přísná, uhlazená forma
-- Zemřel tragicky - utonul při koupání v Jadranu (Lopud, Jugoslávie) za ne zcela jasných okolností
+- Zemřel tragicky během koupání u jaderského ostrova Lopud (tehdejší Jugoslávie, dnes Chorvatsko) 14. května 1931 — pravděpodobně srdeční selhání ve vodě
 - Celoživotně psal o konfliktu jedince se společností, o zklamání a osamělosti
 
 **Další díla:**
@@ -63,7 +63,7 @@ updated: "2026-05-21"
 
 ## 3. Kontext autorovy tvorby
 
-- *Krysař* byl napsán v roce **1915**, vydán poprvé časopisecky, knižně 1916
+- *Krysař* nejprve vycházel časopisecky v Lumíru v letech **1911–1912** pod původním názvem *Pravdivý příběh*; knižně poprvé vyšel v roce **1915** (František Borový) už pod dnešním názvem
 - Vznikl v období 1. světové války, kdy se Dyk angažoval v protirakouském odboji
 - Dílo je inspirováno středověkou německou pověstí o krysaři z Hamelnu (Hameln)
 - Patří do Dykova vrcholného tvůrčího období
@@ -84,8 +84,8 @@ updated: "2026-05-21"
 - Pomsta a spravedlnost - odplata za podvod a hamižnost
 - Moc umění - krysařova píšťala jako symbol umělecké moci
 - Osamělost výjimečného jedince
-- Měšťáctví, hamižnost a pokrytectví (konšelé, obyvatelé Hammelnu)
-- Motiv propasti (Sedmihradská hora / hora Koppel) - propast mezi snem a skutečností
+- Měšťáctví, hamižnost a pokrytectví (konšelé, obyvatelé Hamelnu)
+- Motiv propasti (hora Koppel; podle pověsti vede z propasti tajná chodba až do Sedmihradska) - propast mezi snem a skutečností
 - Naděje vs. beznaděj
 - Sebeobětování
 - Motiv dítěte / blázna (Sepp Jörgen) jako čistého, nevinného bytí
@@ -95,10 +95,10 @@ updated: "2026-05-21"
 ## 5. Časoprostor
 
 - **Čas:** neurčitý, středověk (odpovídá původní pověsti)
-- **Prostor:** město Hammeln (Hameln) v Německu
+- **Prostor:** město Hameln v Německu (česky někdy psáno též Hammeln)
 - Prostředí malého středověkého města - úzké uličky, kostel, radnice, domy měšťanů
 - Řeka protékající městem
-- **Sedmihradská hora (Koppel)** - tajemné místo s propastí, kam vedou děti; symbolický prostor na pomezí reality a mýtu
+- **Hora Koppel** - tajemné místo s propastí, kam Krysař odvede obyvatele Hamelnu; podle pověsti vede z propasti chodba až do Sedmihradska. Symbolický prostor na pomezí reality a mýtu.
 - Město jako symbol uzavřené, pokrytecké společnosti
 
 ---
@@ -143,13 +143,13 @@ updated: "2026-05-21"
 
 **Hlavní postavy:**
 
-- **Krysař** - tajemný cizinec, tulák, který přichází do Hammelnu. Vlastní kouzelnou píšťalu, jejíž zvuk přiláká a odvede krysy. Je výjimečný jedinec - osamělý, hrdý, nezávislý. Zamiluje se do Agnes, která je jeho jedinou vazbou na svět. Když je zrazen městem i Agnes, rozhodne se pro pomstu. Symbolicky představuje umělce odcizeného společnosti.
+- **Krysař** - tajemný cizinec, tulák, který přichází do Hamelnu. Vlastní kouzelnou píšťalu, jejíž zvuk přiláká a odvede krysy. Je výjimečný jedinec - osamělý, hrdý, nezávislý. Zamiluje se do Agnes, která je jeho jedinou vazbou na svět. Když je zrazen městem i Agnes, rozhodne se pro pomstu. Symbolicky představuje umělce odcizeného společnosti.
 
-- **Agnes** - mladá dívka z Hammelnu, krysařova láska. Krásná, ale slabá a nerozhodná. Podlehne Kristiánovi, čímž zradí krysaře. Otěhotní. Představuje krásu, která nedokáže odolat tlaku společnosti. Její jméno odkazuje na latinské *agnus* = beránek (nevinnost, obětní beránek).
+- **Agnes** - mladá dívka z Hamelnu, krysařova láska. Krásná, ale slabá a nerozhodná. Podlehne Kristiánovi, čímž zradí krysaře. Otěhotní. Představuje krásu, která nedokáže odolat tlaku společnosti. Její jméno odkazuje na latinské *agnus* = beránek (nevinnost, obětní beránek).
 
 **Vedlejší postavy:**
 
-- **Dlouhý Kristián** - mladý muž z Hammelnu, milenec Agnes. Povrchní, průměrný, reprezentuje měšťáckou normalitu. Je opakem krysaře - nemá žádné výjimečné vlastnosti.
+- **Dlouhý Kristián** - mladý muž z Hamelnu, milenec Agnes. Povrchní, průměrný, reprezentuje měšťáckou normalitu. Je opakem krysaře - nemá žádné výjimečné vlastnosti.
 - **Sepp Jörgen** - prosťáček / blázen, jediný, kdo neslyší krysařovu píšťalu. Představuje čistou, nevinnou bytost, která není svázána s hamižností a pokrytectvím města. Přežije jako jediný dospělý. Symbolizuje naději a prostou lidskost.
 - **Konšelé (radní)** - představitelé města, hamižní a pokrytečtí. Odmítají zaplatit krysaři slíbenou odměnu. Reprezentují maloměšťáctví a ziskuchtivost.
 - **Frosch a Strumm** - dva konšelé, kteří jsou typickými představiteli hamižného měšťanstva.
@@ -196,7 +196,7 @@ Neaplikuje se - jedná se o prozaické dílo (i když jazyk je silně poetický)
 ## 13. Tropy a figury
 
 **Tropy:**
-- **Symbol** - píšťala (moc umění, nadpřirozená síla); krysy (zlo, ale i hamižnost měšťanů); propast/hora Koppel (hranice mezi životem a smrtí, sen a skutečností); město Hammeln (pokrytectví a maloměšťácká uzavřenost)
+- **Symbol** - píšťala (moc umění, nadpřirozená síla); krysy (zlo, ale i hamižnost měšťanů); propast/hora Koppel (hranice mezi životem a smrtí, sen a skutečností); město Hameln (pokrytectví a maloměšťácká uzavřenost)
 - **Alegorie** - celý příběh lze číst jako alegorii o vztahu umělce a společnosti, která ho využije a zahodí
 - **Metafora** - krysařova hudba jako metafora umělecké tvorby
 - **Personifikace** - město jako živá bytost s vlastní povahou
@@ -212,7 +212,7 @@ Neaplikuje se - jedná se o prozaické dílo (i když jazyk je silně poetický)
 
 ## 14. Stručný děj / obsah
 
-Do středověkého města **Hammelnu** přichází tajemný cizinec - **krysař**. Město je zamořeno krysami a obyvatelé jsou zoufalí. Krysař má kouzelnou píšťalu, jejíž zvuk dokáže přilákat a odvést krysy.
+Do středověkého města **Hamelnu** přichází tajemný cizinec - **krysař**. Město je zamořeno krysami a obyvatelé jsou zoufalí. Krysař má kouzelnou píšťalu, jejíž zvuk dokáže přilákat a odvést krysy.
 
 Krysař se ve městě setkává s krásnou **Agnes** a zamiluje se do ní. Agnes jeho city opětuje a krysař kvůli ní ve městě zůstává. Zároveň se seznamuje s městským prostředím - s hamižnými **konšely**, povrchním **dlouhým Kristiánem** a prostoduchým **Seppem Jörgenem**.
 
@@ -220,7 +220,7 @@ Krysař splní svůj úkol - zahraje na píšťalu a odvede všechny krysy z mě
 
 K tomuto zklamání přibývá ještě větší rána - Agnes ho **zradí s dlouhým Kristiánem**. Agnes otěhotní a krysař pochopí, že jeho láska byla marná. Ztratil jak víru ve společnost, tak jedinou osobu, která mu byla blízká.
 
-Krysař se rozhodne pro **pomstu**. Zahraje na svou píšťalu a její neodolatelný zvuk přiláká všechny obyvatele města. Jako omámení jdou za zvukem píšťaly směrem k **Sedmihradské hoře**, kde je hluboká propast. Všichni obyvatelé Hammelnu - muži, ženy, děti, konšelé - padají do propasti.
+Krysař se rozhodne pro **pomstu**. Zahraje na svou píšťalu a její neodolatelný zvuk přiláká všechny obyvatele města. Jako omámení jdou za zvukem píšťaly směrem k **hoře Koppel**, kde je hluboká propast (z níž podle pověsti vede chodba až do Sedmihradska). Všichni obyvatelé Hamelnu - muži, ženy, děti, konšelé - padají do propasti.
 
 Jediný, kdo nepodlehne kouzlu píšťaly, je **Sepp Jörgen** - prosťáček, který díky své prostotě a čistotě neslyší krysařovu hudbu. Agnes se vrhne do propasti sama, z vlastní vůle, snad z pocitu viny.
 

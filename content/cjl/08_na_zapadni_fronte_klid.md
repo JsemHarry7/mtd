@@ -245,7 +245,7 @@ Paul dostane **dovolenou** a jede domů. Zjišťuje, že se **nedokáže vrátit
 
 ### Konec (kapitoly 10–12)
 
-Kamarádi umírají jeden po druhém. **Müller** je zastřelen, **Detering** dezertuje a je pravděpodobně chycen. Při průzkumu je **Kat** zasažen střepinou do holenní kosti. Paul ho nese na zádech do lazaretu, ale cestou je Kat zasažen dalším střepem **do hlavy** a umírá. Paul zůstává sám.
+Kamarádi umírají jeden po druhém. **Müller** je smrtelně zasažen světelnou (signální) raketou do břicha, **Detering** dezertuje a je pravděpodobně chycen. Při průzkumu je **Kat** zasažen střepinou do holenní kosti. Paul ho nese na zádech do lazaretu, ale cestou je Kat zasažen dalším střepem **do hlavy** a umírá. Paul zůstává sám.
 
 V říjnu 1918, krátce před příměřím, je Paul zabit. Poslední odstavec je napsán v **er-formě**:
 

@@ -27,7 +27,7 @@ updated: "2026-05-21"
 **Další díla:**
 - **Jak jsem potkal ryby** (1974, posmrtně) — soubor povídek pokračujících v autobiografické linii *Smrti krásných srnců*. Pavel vzpomíná na své rybářské zážitky s otcem na Berounce; meditace o štěstí jednoduchých zážitků, přírody a o smyslu života. Tichá, lyrická poezie v próze.
 - **Dukla mezi mrakodrapy** (1964) — sportovní reportáž z amerického zápasového turné československé fotbalové Dukly Praha v roce 1961. Pavel jako sportovní novinář popisuje zážitky z New Yorku, Chicagu a setkání mladých českých hráčů s jiným světem za železnou oponou.
-- **Syn celerového krále** (1979, posmrtně) — autobiografické vzpomínky věnované otci Leovi Pavlovi (Popperovi), který byl po válce obchodním cestujícím s celerovou silnicí. Komicko-melancholický portrét otce a života v poválečném Československu.
+- **Syn celerového krále** (1979, posmrtně) — autobiografické vzpomínky věnované otci Leovi Pavlovi (Popperovi), který po válce obchodoval s celerovou silicí (éterickým olejem). Komicko-melancholický portrét otce a života v poválečném Československu.
 - **Pohádka o Raškovi** (1974, posmrtně) — vyprávění o životě skokana na lyžích Jiřího Rašky, který v roce 1968 v Grenoblu získal jako první Čechoslovák zlatou olympijskou medaili ze skoků na lyžích. Pavel kombinuje sportovní reportáž s pohádkovým, lyrickým tónem.
 
 ---
@@ -144,7 +144,7 @@ updated: "2026-05-21"
 
 **Tatínek Leo Pavel (Popper)**
 - Ústřední postava celé sbírky — ačkoli vypravěčem je Ota, kniha je vlastně o otci
-- Obchodní cestující — prodával vysavače Electrolux
+- Obchodní cestující — prodával vysavače a ledničky Electrolux
 - Žid (pokřtěný)
 - Vášnivý rybář a sportovní fanoušek
 - Energický, vynalézavý, životem nadšený člověk

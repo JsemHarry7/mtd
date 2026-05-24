@@ -21,7 +21,7 @@ updated: "2026-05-21"
 - Pracoval jako novinář — dlouhodobě spolupracoval s Lidovými novinami (spolu s K. Čapkem aj.)
 - Patřil k okruhu autorů kolem Lidových novin (tzv. pátečníci)
 - Za okupace byl jako Žid perzekvován — nesměl publikovat, byl deportován do koncentračních táborů
-- Zemřel pravděpodobně počátkem roku 1945; přesné místo smrti není jisté
+- Zemřel 21. ledna 1945 v Gleiwitzu (Gliwice) na pochodu smrti z koncentračního tábora Osvětim
 - Byl znám svým suchým, ironickým humorem a přesným postřehem pro maloměstské prostředí
 
 **Další díla:**
@@ -151,10 +151,11 @@ updated: "2026-05-21"
 - Vychloubačný — neustále se chlubí svým strýcem z Ameriky
 - Komická postava díky svému přehánění
 
-**Zilvar (Pepa Jirsák)**
-- Nejmladší člen party (bratr Čeňka)
-- Naivní, často terčem posměchu
-- Přesto oddaný kamarád
+**Josef „Pepek" Zilvar (Zilvar z chudobince)**
+- Starší kluk z chudých poměrů, syn invalidního žebráka pana Zilvara, který bydlí v chudobinci
+- Několikrát propadl, kouří, mluví jako dospělý — působí proto na ostatní kluky jako svobodný a hrdinský vzor
+- Občas se rve s klukama z Habrovky, ale parta na něj drží
+- Není příbuzný s Jirsákovými (Čeněk Jirsák je samostatná postava)
 
 ### Vedlejší postavy:
 
@@ -223,7 +224,7 @@ Neaplikuje se — jedná se o prozaické dílo.
 
 ## 14. Stručný děj / obsah
 
-Román vypráví o partě pěti kluků z českého maloměsta — **Péťovi Bajzovi** (vypravěči), **Čeňkovi Jirsákovi**, **Tondovi Bejvalovi**, **Edovi Kemlinkovi** a **Zilvarovi** (Pepovi Jirsákovi). Příběh zachycuje jejich každodenní dobrodružství, klukovské hry, šarvátky, školní příhody a konflikty s dospělými.
+Román vypráví o partě pěti kluků z českého maloměsta — **Péťovi Bajzovi** (vypravěči), **Čeňkovi Jirsákovi**, **Tondovi Bejvalovi**, **Edovi Kemlinkovi** a **Josefu „Pepkovi" Zilvarovi** (zvanému Zilvar z chudobince). Příběh zachycuje jejich každodenní dobrodružství, klukovské hry, šarvátky, školní příhody a konflikty s dospělými.
 
 Kluci spolu prožívají řadu epizod — válčí s konkurenční partou kluků z jiné ulice, podnikají výpravy do okolní přírody, hrají fotbal a vymýšlejí různé lumpárny. Eda Kemlink se neustále chlubí svým bohatým strýcem z Ameriky, což ostatní kluky fascinuje i rozčiluje.
 

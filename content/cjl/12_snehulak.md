@@ -17,7 +17,7 @@ updated: "2026-05-21"
 
 - Norský spisovatel, autor detektivních románů, muzikant a bývalý fotbalista a ekonom
 - Vystudoval ekonomii na Norské obchodní škole (NHH) v Bergenu
-- Pracoval jako finanční analytik, novinář a textař rockové kapely Di Dansen
+- Pracoval jako finanční analytik, novinář a zpěvák/textař norské rockové kapely **Di Derre** (založená 1992 v Molde s bratrem Knutem)
 - Proslavil se sérií kriminálních románů s detektivem Harrym Holem
 - Jeden z nejúspěšnějších současných autorů severského krimi (Nordic noir)
 - Jeho knihy jsou přeloženy do více než 50 jazyků
@@ -27,7 +27,7 @@ updated: "2026-05-21"
 - *Netopýr* (*Flaggermusmannen*, 1997) – první díl série, odehrává se v Sydney. Harry Hole je vyslán z Norska vyšetřovat vraždu mladé norské dívky; ponoří se do prostředí aboridžinské mytologie a osobně se zaplete s podezřelou.
 - *Švábi* (*Kakerlakkene*, 1998) – druhý díl. Harry vyšetřuje smrt norského velvyslance v thajském bordelu; v Bangkoku se konfrontuje s korupcí, dětskou prostitucí a vlastním alkoholismem.
 - *Červenka* (*Rødstrupe*, 2000) – průlomový díl série a začátek norsko-historické linie. Harry vyšetřuje stopu starého nacistického ostřelovače z norských dobrovolníků na východní frontě; pro Norsko bolestné téma kolaborace.
-- *Nemesis* (2002) – Harry vyšetřuje bankovní loupež s vraždou pokladní; klíčovým podezřelým je jeho přítel z mládí. Mezitím ho pronásleduje vrah z předchozího dílu.
+- *Nemesis* (norský originál *Sorgenfri*, 2002) – Harry vyšetřuje bankovní loupež s vraždou pokladní; klíčovým podezřelým je jeho přítel z mládí. Mezitím ho pronásleduje vrah z předchozího dílu.
 - *Pentagram* (*Marekors*, 2003; alternativní český název *Ďáblova hvězda*) – sériový vrah zanechává u svých obětí drobné diamanty ve tvaru pětihranu. Pokračování konfliktu Harryho s jeho úhlavním nepřítelem Tomem Waalerem.
 - *Spasitel* (*Frelseren*, 2005) – nájemný vrah z Chorvatska zastřelí v centru Osla muže od Armády spásy; Harry sleduje stopu do válečných zločinů z balkánské války. Vstupuje sem Harryho budoucí partnerka Rakel.
 - *Levhart* (*Panserhjerte*, 2009) – v Norsku řádí psychopat, který používá zařízení zvané „leopolďs apple" (železná koule s jehlami, kterou strčí oběti do úst). Harry se vrací z hongkongského azylu, aby pomohl s vyšetřováním.
