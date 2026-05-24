@@ -3,6 +3,7 @@ import { Link } from "wouter";
 import { loadNote } from "@/lib/manifest";
 import type { Manifest, Note, NoteStatus } from "@/types";
 import { useDocumentTitle } from "@/lib/useDocumentTitle";
+import { Toc } from "@/components/Toc";
 
 export function NotePage({
   manifest,
@@ -45,110 +46,135 @@ export function NotePage({
     idx >= 0 && idx < slugs.length - 1 ? manifest.notes[slugs[idx + 1]] : null;
 
   return (
-    <article className="mx-auto max-w-3xl px-6 pb-16 pt-10 sm:px-10 sm:pt-16">
-      <Link
-        href={`/${subject}`}
-        className="data text-ink-muted hover:text-ink mb-10 inline-block text-[11px] uppercase tracking-[0.2em] no-underline"
-      >
-        ← {meta.subject}
-      </Link>
+    /* Three-column grid on lg+. The 1fr gutters keep the article visually
+       centered on the viewport while the ToC sits inside the left gutter
+       (right-aligned via ml-auto). Below lg: single column, ToC hidden. */
+    <div className="mx-auto grid w-full max-w-6xl gap-6 px-6 pb-16 pt-10 sm:px-10 sm:pt-16 lg:grid-cols-[1fr_minmax(0,48rem)_1fr] lg:gap-10">
+      <aside className="hidden lg:block">
+        {note && (
+          <div className="sticky top-24 ml-auto max-w-[14rem] pr-2">
+            <Toc headings={meta.headings} />
+          </div>
+        )}
+      </aside>
 
-      <header className="mb-12">
-        <div className="data text-accent text-[11px] uppercase tracking-[0.22em]">
-          {meta.subject} · č. {String(meta.number).padStart(2, "0")}
-        </div>
-        <h1 className="display text-ink mt-4 text-5xl sm:text-6xl">
-          <span className="italic">{meta.title}</span>
-        </h1>
-        {meta.speakingTime && (
-          <p className="data text-ink-muted mt-5 text-[11px] uppercase tracking-[0.18em]">
-            <span className="text-ink-dim tabular-nums">~{meta.speakingTime}</span>{" "}
-            min mluvení
+      <article className="min-w-0">
+        <Link
+          href={`/${subject}`}
+          className="data text-ink-muted hover:text-ink mb-10 inline-block text-[11px] uppercase tracking-[0.2em] no-underline"
+        >
+          ← {meta.subject}
+        </Link>
+
+        <header className="mb-12">
+          <div className="data text-accent text-[11px] uppercase tracking-[0.22em]">
+            {meta.subject} · č. {String(meta.number).padStart(2, "0")}
+          </div>
+          <h1 className="display text-ink mt-4 text-5xl sm:text-6xl">
+            <span className="italic">{meta.title}</span>
+          </h1>
+          {meta.speakingTime && (
+            <p className="data text-ink-muted mt-5 text-[11px] uppercase tracking-[0.18em]">
+              <span className="text-ink-dim tabular-nums">
+                ~{meta.speakingTime}
+              </span>{" "}
+              min mluvení
+            </p>
+          )}
+        </header>
+
+        {error && <p className="data text-bad text-sm">load failed: {error}</p>}
+        {!note && !error && (
+          <p className="data text-ink-muted animate-pulse text-xs">
+            načítám obsah …
           </p>
         )}
-      </header>
+        {note && (
+          <div
+            className="prose"
+            dangerouslySetInnerHTML={{ __html: note.html }}
+          />
+        )}
 
-      {error && <p className="data text-bad text-sm">load failed: {error}</p>}
-      {!note && !error && (
-        <p className="data text-ink-muted animate-pulse text-xs">
-          načítám obsah …
-        </p>
-      )}
-      {note && (
-        <div className="prose" dangerouslySetInnerHTML={{ __html: note.html }} />
-      )}
-
-      {/* Colophon — end-of-article metadata, magazine style */}
-      {note && (
-        <aside className="border-line mt-16 border-t pt-8">
-          <div className="data text-ink-muted mb-5 text-[11px] uppercase tracking-[0.22em]">
-            kolofon
-          </div>
-          <dl className="grid grid-cols-[100px_1fr] gap-x-6 gap-y-3 text-[13px]">
-            <ColField label="status">
-              <span className={`data uppercase tracking-[0.18em] ${statusColor(meta.status)}`}>
-                {meta.status}
-              </span>
-            </ColField>
-            <ColField label="share">
-              <span className="data text-ink uppercase tracking-[0.18em]">
-                {meta.share}
-              </span>
-            </ColField>
-            {meta.updated && (
-              <ColField label="updated">
-                <span className="data text-ink tabular-nums">{meta.updated}</span>
-              </ColField>
-            )}
-            {meta.tags.length > 0 && (
-              <ColField label="tagy">
-                <span className="data text-ink-dim text-[12px]">
-                  {meta.tags.join(", ")}
+        {/* Colophon — end-of-article metadata, magazine style */}
+        {note && (
+          <aside className="border-line mt-16 border-t pt-8">
+            <div className="data text-ink-muted mb-5 text-[11px] uppercase tracking-[0.22em]">
+              kolofon
+            </div>
+            <dl className="grid grid-cols-[100px_1fr] gap-x-6 gap-y-3 text-[13px]">
+              <ColField label="status">
+                <span
+                  className={`data uppercase tracking-[0.18em] ${statusColor(meta.status)}`}
+                >
+                  {meta.status}
                 </span>
               </ColField>
-            )}
-          </dl>
-        </aside>
-      )}
+              <ColField label="share">
+                <span className="data text-ink uppercase tracking-[0.18em]">
+                  {meta.share}
+                </span>
+              </ColField>
+              {meta.updated && (
+                <ColField label="updated">
+                  <span className="data text-ink tabular-nums">
+                    {meta.updated}
+                  </span>
+                </ColField>
+              )}
+              {meta.tags.length > 0 && (
+                <ColField label="tagy">
+                  <span className="data text-ink-dim text-[12px]">
+                    {meta.tags.join(", ")}
+                  </span>
+                </ColField>
+              )}
+            </dl>
+          </aside>
+        )}
 
-      {(prev || next) && (
-        <nav
-          className="border-line mt-12 grid grid-cols-2 gap-6 border-t pt-8"
-          aria-label="prev / next"
-        >
-          <div>
-            {prev && (
-              <Link
-                href={`/${prev.subject}/${prev.slug}`}
-                className="group block no-underline"
-              >
-                <div className="data text-ink-muted text-[10px] uppercase tracking-[0.2em]">
-                  ← předchozí
-                </div>
-                <div className="display text-ink group-hover:text-accent mt-2 text-lg transition-colors">
-                  {prev.title}
-                </div>
-              </Link>
-            )}
-          </div>
-          <div className="text-right">
-            {next && (
-              <Link
-                href={`/${next.subject}/${next.slug}`}
-                className="group block no-underline"
-              >
-                <div className="data text-ink-muted text-[10px] uppercase tracking-[0.2em]">
-                  další →
-                </div>
-                <div className="display text-ink group-hover:text-accent mt-2 text-lg transition-colors">
-                  {next.title}
-                </div>
-              </Link>
-            )}
-          </div>
-        </nav>
-      )}
-    </article>
+        {(prev || next) && (
+          <nav
+            className="border-line mt-12 grid grid-cols-2 gap-6 border-t pt-8"
+            aria-label="prev / next"
+          >
+            <div>
+              {prev && (
+                <Link
+                  href={`/${prev.subject}/${prev.slug}`}
+                  className="group block no-underline"
+                >
+                  <div className="data text-ink-muted text-[10px] uppercase tracking-[0.2em]">
+                    ← předchozí
+                  </div>
+                  <div className="display text-ink group-hover:text-accent mt-2 text-lg transition-colors">
+                    {prev.title}
+                  </div>
+                </Link>
+              )}
+            </div>
+            <div className="text-right">
+              {next && (
+                <Link
+                  href={`/${next.subject}/${next.slug}`}
+                  className="group block no-underline"
+                >
+                  <div className="data text-ink-muted text-[10px] uppercase tracking-[0.2em]">
+                    další →
+                  </div>
+                  <div className="display text-ink group-hover:text-accent mt-2 text-lg transition-colors">
+                    {next.title}
+                  </div>
+                </Link>
+              )}
+            </div>
+          </nav>
+        )}
+      </article>
+
+      {/* Right gutter mirror — keeps the article visually centered */}
+      <div className="hidden lg:block" aria-hidden />
+    </div>
   );
 }
 

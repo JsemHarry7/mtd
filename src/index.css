@@ -181,6 +181,9 @@ button:disabled {
   margin-top: 2.2em;
   margin-bottom: 0.5em;
   line-height: 1.12;
+  /* When ToC link scrolls a heading into view, leave room under the
+     sticky topbar (64px + breathing) so the heading isn't hidden. */
+  scroll-margin-top: 88px;
 }
 .prose h2 {
   font-size: 2.1rem;
