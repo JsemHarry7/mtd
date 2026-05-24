@@ -52,7 +52,6 @@ updated: "2026-05-21"
 
 **Další zástupci:**
 - ✅ **Ladislav Fuks** — *Spalovač mrtvol* (1967), *Pan Theodor Mundstock* (1963) — psychologická próza s tématem holocaustu a banálního zla. *Spalovač mrtvol* zachycuje proměnu pražského zaměstnance krematoria Kopfrkingla v nacistického vraha vlastní rodiny. *Pan Theodor Mundstock* sleduje židovského úředníka, který se obsesivně připravuje na transport. Na tvém seznamu.
-- 📚 **Milan Kundera** — *Žert* (1967), *Směšné lásky* (1963–68), *Nesnesitelná lehkost bytí* (1984) — intelektuální satira a ironie dějin. *Žert* je román o studentovi Ludvíkovi, kterého nevinný vtip („Optimismus je opium lidstva! Trockij ať žije!") na pohlednici vyloučí ze strany a zničí život. *Nesnesitelná lehkost bytí* sleduje milostné čtyřúhelníky v Praze 1968 a emigraci. Sám Kundera emigroval do Francie a psal později francouzsky.
 - ✅ **Zdeněk Svěrák & Ladislav Smoljak** — *Vyšetřování ztráty třídní knihy* (1967), *České nebe* (2008) — Divadlo Járy Cimrmana, mystifikace a parodie odborného diskurzu. *Vyšetřování* je absurdní komedie o byrokratickém vyšetřování banální ztráty třídnice. *České nebe* je vrcholná pozdní hra o setkání českých národních patronů (Karel IV., Hus, Komenský...) v nebi. Na tvém seznamu.
 
 ---

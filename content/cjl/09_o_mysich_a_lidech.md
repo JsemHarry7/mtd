@@ -62,7 +62,6 @@ updated: "2026-05-21"
 ### Další zástupci
 
 - ✅ **Agatha Christie** – „Deset malých černoušků" (1939), „Vražda v Orient Expressu" (1934) – „královna detektivky" britského zlatého věku. *Deset malých černoušků* je nejprodávanější detektivka všech dob – deset cizinců je pozváno na izolovaný ostrov a postupně umírají podle dětské říkanky. *Vražda v Orient Expressu* je klasický Poirotův případ ve vlaku zaseknutém ve sněhu (na tvém seznamu).
-- 📚 **Ernest Hemingway** – „Stařec a moře" (1952), „Komu zvoní hrana" (1940), „Sbohem, armádo" (1929) – americká ztracená generace. Hemingwayův úsporný styl („iceberg theory") a hrdinové, kteří čelí osudu se stoickým klidem. *Stařec a moře* je novela o kubánském rybáři Santiagovi a obrovském marlínovi; přinesla Nobelovu cenu 1954.
 - 📚 **Francis Scott Fitzgerald** – „Velký Gatsby" (1925) – ikona americké ztracené generace a kritika amerického snu. Tajemný milionář Jay Gatsby pořádá ve své vile na Long Islandu okázalé večírky, aby získal zpět dávnou lásku Daisy Buchananovou. Jeho tragický pád ukazuje prázdnotu „roaring twenties" a zkázu mýtu o sebevytvořeném muži.
 
 ---

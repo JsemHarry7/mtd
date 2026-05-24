@@ -48,7 +48,6 @@ updated: "2026-05-21"
 
 **Další zástupci:**
 - 📚 **Arnošt Lustig** — *Modlitba pro Kateřinu Horovitzovou* (1964), *Démanty noci* (1958), *Noc a naděje* (1958) — klíčový český autor holokaustové prózy; sám prošel Terezínem, Osvětimí a Buchenwaldem. *Modlitba* je novela o mladé Židovce, která je s rodinou „vykoupena" nacisty jako výměnný vězeň, ale podvodem skončí v plynové komoře; v poslední chvíli zabije esesáka pistolí. *Démanty noci* zachycují útěk dvou chlapců z transportu smrti.
-- 📚 **Bohumil Hrabal** — *Postřižiny* (1976), *Slavnosti sněženek* (1978) — lyrizovaná próza, humor a vzpomínka. *Postřižiny* sledují matku-vitalistku Marii, otce-pivovarského správce Francina a strýce Pepina v meziválečném maloměstě. *Slavnosti sněženek* jsou idylické povídky ze středočeského Kerska, kde Hrabal pobýval; obě díla zfilmoval Jiří Menzel.
 - 📚 **Josef Škvorecký** — *Prima sezona* (1975), *Zbabělci* (1958) — autobiografické a generační prózy o dospívání v Náchodě (alias Kostelec). *Zbabělci* zachycují posledních osm dní 2. světové války očima maturanta Dannyho Smiřického, který víc řeší jazzové kapely a dívky než ideály. *Prima sezona* je pokračování o Dannyho středoškolských letech. Škvorecký emigroval 1969 do Kanady a založil exilové nakladatelství 68 Publishers.
 
 ---

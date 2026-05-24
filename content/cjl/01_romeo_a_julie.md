@@ -56,7 +56,6 @@ updated: "2026-05-21"
   - Divadlo jako hlavní forma zábavy a umění.
 - **Další zástupci:**
   - 📚 Giovanni Boccaccio (*Dekameron*, 1353) – italská renesance; sto novel, které si vypráví deset mladých Florenťanů ukrytých před morem na venkově. Tématy jsou láska, erotika, lidská chytrost a kritika církve; zakladatelské dílo evropské novely.
-  - Francesco Petrarca (*Zpěvník / Canzoniere*, 14. století) – italská renesance; sbírka 366 lyrických básní a sonetů věnovaných milované Lauře. Petrarca je otec evropské milostné lyriky a standardizoval formu sonetu (později nazvaného „petrarkovský").
   - 📚 Miguel de Cervantes (*Důmyslný rytíř Don Quijote de la Mancha*, 1605/1615) – španělská renesance; zchudlý šlechtic Don Quijote zešílí z čtení rytířských románů a se sluhou Sancho Panzou vyrazí na fantazijní výpravy (boj s větrnými mlýny). Považován za první moderní evropský román a parodii rytířské literatury.
 
 ---

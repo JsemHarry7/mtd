@@ -58,7 +58,6 @@ updated: "2026-05-21"
 
 **Další zástupci:**
 - 📚 **Lars Kepler** (švédský pseudonym manželů Alexandry Coelho Ahndoril a Alexandera Ahndorila) – série o policejním inspektoru Joonu Linnovi. *Hypnotizér* (2009) je o psychiatrovi, kterého povolají k traumatizovanému svědkovi krvavé vraždy, a hypnóza odhalí, že chlapec byl jedním z útočníků. *Stalker* (2014) sleduje vraha, který natáčí své oběti přes okna. Severský psychologický thriller.
-- 📚 **Haruki Murakami** – *Norské dřevo* (1987), *Kafka na pobřeží* (2002) – světově nejčtenější současný japonský autor. *Norské dřevo* je nostalgický román o studentovi Tóru Watanabem a jeho lásce k melancholické Naoko v Tokiu konce 60. let; titul je odkazem na píseň Beatles. *Kafka na pobřeží* je magicko-realistický román o útěku patnáctiletého chlapce, kočkomluvném starci a oidipovském proroctví.
 - 📚 **Cormac McCarthy** – *Cesta* (2006, Pulitzerova cena), *Tahle země není pro starý* (2005) – současná americká próza, biblicky strohý styl bez uvozovek. *Cesta* zobrazuje otce a syna putujícího postapokalyptickou Amerikou plnou kanibalů. *Tahle země není pro starý* je krimi-western o Llewellyn Mossovi, který najde v poušti drogové peníze, a o psychopatickém zabijákovi Antonu Chigurhovi (bratři Coenové zfilmovali 2007).
 
 ---

@@ -59,7 +59,6 @@ updated: "2026-05-21"
 
 - ✅ **Viktor Dyk** – „Krysař" (1915), „Marnost" (1898) – stojí na pomezí buřičů a novoklasicismu. *Krysař* je novela podle německé pověsti o tom, jak se osamělý umělec mstí pokryteckému městu, které ho zradilo v lásce i v penězích. Dyk byl zároveň nacionalistický politik – senátor Národní demokracie (na tvém seznamu).
 - 📚 **Petr Bezruč** – „Slezské písně" (1909) – jediná Bezručova sbírka, ale klíčové dílo české sociální poezie. Drsná lyrika o útlaku Slezanů germanizací a polonizací, o bídě hornické práce v ostravsko-karvinských dolech; básnické „já" mluví za celý utiskovaný národ (např. *Maryčka Magdónova*, *Kantor Halfar*).
-- **Stanislav Kostka Neumann** – „Kniha lesů, vod a strání" (1914), „Nové zpěvy" (1918) – organizační střed buřičů kolem časopisu Nový kult. *Kniha lesů* je vitalistická lyrika oslavující přírodu a smyslové prožitky; *Nové zpěvy* zase oslavují techniku, moderní město a civilizaci. Anarchista, později se přiklonil ke komunismu.
 
 ---
 

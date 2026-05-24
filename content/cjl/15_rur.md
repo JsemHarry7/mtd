@@ -65,7 +65,6 @@ updated: "2026-05-21"
 **Další zástupci:**
 - ✅ **Karel Poláček** – *Bylo nás pět* (1946, posmrtně) – humoristický román o partě pěti chlapců z českého maloměsta vyprávěný optikou nejmladšího Péti Bajzy. Naivní dětský pohled odhaluje komické stránky života dospělých; psáno za války, kontrastuje s tragickým osudem autora (zemřel v koncentračním táboře). Na tvém seznamu.
 - 📚 **Vladislav Vančura** – *Rozmarné léto* (1926), *Markéta Lazarová* (1931) – meziválečný experimentátor s jazykem. *Rozmarné léto* je lyrická novela o třech přátelích v malém lázeňském městečku, kterým spočine nuda až do příjezdu kouzelníka Arnoštka a jeho krásné Anny. *Markéta Lazarová* je archaicky stylizovaná balada o lásce uprostřed loupežnických rodů ve středověku; Vančuru nacisté popravili roku 1942 za odbojovou činnost.
-- 📚 **Zdeněk Jirotka** – *Saturnin* (1942) – jedna z nejcitovanějších českých humoristických knih 20. století. Geniální sluha Saturnin s nekonečnou trpělivostí a originálními nápady řeší krize svého pána a jeho rodiny (děda, teta Kateřina); psáno v tradici P. G. Wodehouse, s elegantním humorem a brilantním jazykem.
 
 ---
 

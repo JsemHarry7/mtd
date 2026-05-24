@@ -48,7 +48,6 @@ updated: "2026-05-21"
 
 **Další zástupci:**
 - ✅ **Bohumil Hrabal** — *Ostře sledované vlaky* (1965), *Obsluhoval jsem anglického krále* (1971/1989) — mistr „pábení", lyricko-expresivní próza. *Ostře sledované vlaky* sledují dospívání mladého výpravčího Miloše Hrmy na maloměstské stanici za války až k jeho hrdinské smrti při sabotáži muničního vlaku. *Obsluhoval jsem anglického krále* je tragikomický příběh malého servírky-snílka přes celé 20. století. Na tvém seznamu.
-- 📚 **Milan Kundera** — *Žert* (1967), *Směšné lásky* (1963–68) — intelektuální satira, ironie dějin, paměť a zrada. *Žert* je román o studentovi Ludvíkovi, kterého nevinný vtip na pohlednici („Optimismus je opium lidstva! Trockij ať žije!") vyloučí ze strany a celý život mu pokřiví. *Směšné lásky* je cyklus povídek o ironických milostných hrách za normalizace. Kundera později emigroval do Francie.
 - ✅ **Zdeněk Svěrák & Ladislav Smoljak** — *Vyšetřování ztráty třídní knihy* (1967), *České nebe* (2008) — Divadlo Járy Cimrmana, mystifikace a absurdní humor. *Vyšetřování* je absurdní komedie o byrokratickém vyšetřování banální ztráty třídnice ve školním sborovně. *České nebe* je pozdní hra o setkání českých národních patronů (Karel IV., Hus, Komenský, Havlíček...) v nebi a jejich pohledu na současné Česko. Na tvém seznamu.
 
 ---

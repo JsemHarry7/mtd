@@ -61,7 +61,6 @@ updated: "2026-05-21"
 ### Další zástupci
 
 - ✅ **John Steinbeck** – „O myších a lidech" (1937), „Hrozny hněvu" (1939) – americký sociální realismus 30. let. *O myších a lidech* je novela o dvou potulných dělnících (silný Lennie a malý George) snících o vlastní farmě v době Velké hospodářské krize. *Hrozny hněvu* sledují migraci rodiny Joadových z Oklahomy do Kalifornie. Nobelova cena 1962 (na tvém seznamu).
-- 📚 **Ernest Hemingway** – „Stařec a moře" (1952), „Komu zvoní hrana" (1940) – americká ztracená generace. *Stařec a moře* je krátká novela o kubánském rybáři Santiagovi, který chytí obrovského marlína, ale žraloci mu ho cestou zpět rozsápou. *Komu zvoní hrana* zachycuje Roberta Jordana, amerického dobrovolníka ve španělské občanské válce. Nobelova cena 1954.
 - 📚 **Francis Scott Fitzgerald** – „Velký Gatsby" (1925) – ikona americké ztracené generace a kritika amerického snu. Tajemný milionář Jay Gatsby pořádá ve své vile na Long Islandu okázalé večírky, jen aby získal zpět svou dávnou lásku Daisy Buchananovou; jeho tragický pád ukazuje prázdnotu „roaring twenties".
 
 ---

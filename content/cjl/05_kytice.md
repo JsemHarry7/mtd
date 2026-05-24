@@ -44,7 +44,6 @@ updated: "2026-05-21"
 - **Další zástupci:**
   - 📚 Karel Hynek Mácha (*Máj*, 1836) – vrchol českého romantismu. Lyricko-epická báseň o Vilému (vůdci loupežníků), který zabije vlastního otce-svůdce své milé Jarmily a je popraven; meditace o vině, smrti, přírodě a smyslu života. Známé verše „Byl pozdní večer – první máj –" jsou prvním milostným poselstvím.
   - 📚 Victor Hugo (*Bídníci*, 1862; *Chrám Matky Boží v Paříži*, 1831) – největší francouzský romantik. *Bídníci* sledují bývalého trestance Jeana Valjeana, který se snaží žít poctivě, ale je pronásledován policistou Javertem; mohutná freska Paříže 19. století. *Chrám* odehrávající se v 15. století popisuje tragickou lásku hrbatého zvoníka Quasimoda k cikánce Esmeraldě.
-  - 📚 Alexander Sergejevič Puškin (*Evžen Oněgin*, 1823–1831) – ruský romantismus, „ruský Mácha". Veršovaný román o znuděném dandym Oněginovi, který odmítne lásku mladé Taťány a zabije v souboji svého přítele Lenského; když se po letech zamiluje on do Taťány, je už pozdě. Inovativní „oněginská sloka" se 14 verši.
 
 ---
 

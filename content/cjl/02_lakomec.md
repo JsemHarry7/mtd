@@ -45,7 +45,6 @@ updated: "2026-05-21"
   - Spisovný, uhlazen jazyk.
 - **Další zástupci:**
   - Jean Racine (*Faidra*, 1677) – vrchol francouzské klasicistní tragédie. Faidra (manželka krále Thésea) propadne vášnivé lásce k pastorkovi Hippolytovi; její nepřiznaná vášeň ji ničí a vede ke smrti všech. Téma: nezvládnutá vášeň ničící rozum a řád.
-  - Pierre Corneille (*Cid*, 1637) – zakladatel francouzské klasicistní tragédie. Mladý Rodrigo (Cid) zabije v souboji otce své milované Chimény, aby pomstil čest vlastního otce; oba pak řeší rozpor mezi láskou a povinností. Dílo vyvolalo „Hádku o Cida" o klasicistních pravidlech.
   - Jean de La Fontaine (*Bajky*, 1668–1694) – dvanáct knih veršovaných bajek čerpajících z Ezopa a Pilpaje (Vlk a beránek, Cikáda a mravenec, Vrána a liška). Klasicistní bajkář, který za alegorií zvířat skrýval kritiku dvora a společnosti; vrstevník Molièra u Ludvíka XIV.
 
 ---

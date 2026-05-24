@@ -50,7 +50,6 @@ updated: "2026-05-21"
 **Další zástupci:**
 - ✅ **Erich Maria Remarque** – *Na západní frontě klid* (1929), *Tři kamarádi* (1936) – německá ztracená generace, hřbitovy zákopů, antiválečný román. *Na západní frontě klid* sleduje skupinu německých středoškoláků, kteří narukovali do 1. světové války z vlasteneckého nadšení a postupně se rozplynou v anonymních zákopových bojích. Diametrálně odlišný přístup k válce než Hašek (tragédie místo satiry). Na tvém seznamu.
 - 📚 **Ernest Hemingway** – *Sbohem, armádo* (1929), *Komu zvoní hrana* (1940), *Stařec a moře* (1952) – americká ztracená generace. *Sbohem, armádo* je autobiografický román o americkém řidiči sanitky na italské frontě 1. světové války a jeho lásce k anglické zdravotní sestře Catherine. Úsporný „hemingwayovský" styl. Nobelova cena 1954.
-- 📚 **Romain Rolland** – *Petr a Lucie* (1920) – francouzský pacifista, antiválečný protest. Krátká novela o mladém Petrovi a Lucii, kteří se v Paříži zamilují uprostřed bombardování za 1. světové války; jejich krátká, čistá láska končí, když oba zahynou při útoku v kostele na Velký pátek 1918. Nobelova cena 1915.
 
 ---
 

@@ -43,7 +43,6 @@ updated: "2026-05-21"
 - **Další zástupci:**
   - 📚 Lev Nikolajevič Tolstoj (*Anna Karenina*, 1878; *Vojna a mír*, 1869) – vrchol ruského realismu. *Anna Karenina* zobrazuje vdanou ženu z petrohradské společnosti, která pro vášnivý vztah s hrabětem Vronským obětuje rodinu a nakonec spáchá sebevraždu pod vlakem. *Vojna a mír* je monumentální historická freska o ruské společnosti za napoleonských válek.
   - 📚 Honoré de Balzac (*Otec Goriot*, 1835) – francouzský realismus, součást monumentálního cyklu *Lidská komedie* (přes 90 románů zachycujících celou společnost). *Otec Goriot* je tragédie pařížského kupce, který obětuje vše pro své dcery a ony ho odvrhnou; ústřední postavou je i kariérista Rastignac.
-  - 📚 Charles Dickens (*Oliver Twist*, 1838) – anglický realismus a kritika sociálních poměrů viktoriánské Anglie. Osud sirotka Olivera, který uteče z chudobince do Londýna, kde ho zločinec Fagin zatáhne do zlodějské bandy; nakonec se ukáže Oliverův šlechtický původ. Ostrá kritika dětské bídy a viktoriánských institucí.
 
 ---
 

@@ -49,7 +49,6 @@ updated: "2026-05-21"
 **Další zástupci:**
 - ✅ **Karel Čapek** — *R.U.R.* (1920), *Válka s mloky* (1936), *Bílá nemoc* (1937) — vůdčí osobnost demokratického proudu. *R.U.R.* je drama o vzpouře umělých dělníků (zde se poprvé objevuje slovo „robot"). *Válka s mloky* satiricky líčí, jak lidstvo zneužije inteligentní mloky a oni se vzbouří. *Bílá nemoc* varuje před fašismem skrze podobenství o lékaři odmítajícím léčit válečné štváče. Na tvém seznamu.
 - 📚 **Vladislav Vančura** — *Rozmarné léto* (1926), *Markéta Lazarová* (1931) — meziválečný experimentátor s jazykem. *Rozmarné léto* je lyrická novela o třech přátelích v lázničkách a jejich fascinaci kouzelníkem Arnoštkem a krásnou Annou. *Markéta Lazarová* je archaicky stylizovaná balada o lásce uprostřed loupežnických rodů ve středověku; Vančuru nacisté popravili roku 1942.
-- 📚 **Zdeněk Jirotka** — *Saturnin* (1942) — jedna z nejcitovanějších českých humoristických knih 20. století. Geniální sluha Saturnin s nekonečnou trpělivostí a originálními nápady řeší krize svého pána a jeho rodiny (děda, teta Kateřina); psáno v tradici P. G. Wodehouse, s elegantním humorem a brilantním jazykem.
 
 ---
 

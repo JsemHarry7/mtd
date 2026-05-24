@@ -57,7 +57,6 @@ updated: "2026-05-21"
 **Další zástupci:**
 - ✅ **František Gellner** – *Po nás ať přijde potopa* (1901), *Radosti života* (1903) – bohémský revoltér, anarchistická poezie. Provokativní básně o hospodách, alkoholu, erotice a generační lhostejnosti („Po nás ať přijde potopa"); titul je parafráze výroku připisovaného Ludvíku XV. Gellner padl/zmizel na haličské frontě 1. světové války (na tvém seznamu).
 - 📚 **Petr Bezruč** – *Slezské písně* (1909) – jediná Bezručova sbírka, ale klíčové dílo české sociální poezie. Drsná lyrika o útlaku Slezanů germanizací a polonizací, o bídě hornické práce v ostravsko-karvinských dolech; básnické „já" mluví za celý utiskovaný národ (např. *Maryčka Magdónova*, *Kantor Halfar*).
-- **Stanislav Kostka Neumann** – *Kniha lesů, vod a strání* (1914), *Nové zpěvy* (1918) – organizační střed buřičů kolem časopisu Nový kult. *Kniha lesů* je vitalistická lyrika oslavující přírodu a smyslové prožitky; *Nové zpěvy* zase oslavují techniku, moderní město a civilizaci. Anarchista, později se přiklonil ke komunismu.
 
 ---
 

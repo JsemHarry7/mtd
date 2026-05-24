@@ -68,7 +68,6 @@ updated: "2026-05-21"
 **Další zástupci:**
 - ✅ **Bohumil Hrabal** — *Ostře sledované vlaky* (1965), *Obsluhoval jsem anglického krále* (1971/1989) — mistr „pábení", lyricko-expresivní próza. *Ostře sledované vlaky* sledují dospívání mladého výpravčího Miloše Hrmy na maloměstské stanici za války až k jeho hrdinské smrti při sabotáži muničního vlaku. *Obsluhoval jsem anglického krále* je tragikomický příběh malého servírky-snílka přes celé 20. století. Na tvém seznamu.
 - ✅ **Ladislav Fuks** — *Spalovač mrtvol* (1967), *Pan Theodor Mundstock* (1963) — psychologická próza s tématem holocaustu a banálního zla. *Spalovač mrtvol* zachycuje proměnu pražského zaměstnance krematoria Kopfrkingla v nacistického vraha vlastní rodiny pod vlivem nacistické ideologie. *Pan Theodor Mundstock* sleduje židovského úředníka, který se obsesivně připravuje na transport. Na tvém seznamu.
-- 📚 **Milan Kundera** — *Žert* (1967), *Směšné lásky* (1963–68) — intelektuální satira a ironie dějin. *Žert* je román o studentovi Ludvíkovi, kterého nevinný vtip na pohlednici („Optimismus je opium lidstva! Trockij ať žije!") vyloučí ze strany a celý život mu pokřiví. *Směšné lásky* je cyklus povídek o ironických milostných hrách za normalizace. Kundera později emigroval do Francie a psal francouzsky.
 
 ---
 
