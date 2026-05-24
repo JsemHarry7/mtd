@@ -32,7 +32,6 @@ import remarkParse from "remark-parse";
 import remarkGfm from "remark-gfm";
 import remarkRehype from "remark-rehype";
 import rehypeSlug from "rehype-slug";
-import rehypeAutolinkHeadings from "rehype-autolink-headings";
 import rehypeStringify from "rehype-stringify";
 import { visit } from "unist-util-visit";
 
@@ -125,11 +124,9 @@ async function renderMarkdown(body) {
     .use(remarkGfm)
     .use(remarkRehype, { allowDangerousHtml: false })
     .use(rehypeSlug)
-    .use(rehypeAutolinkHeadings, {
-      behavior: "append",
-      properties: { className: ["heading-anchor"], ariaHidden: "true", tabIndex: -1 },
-      content: { type: "text", value: "#" },
-    })
+    // NB: not using rehype-autolink-headings — its appended `#` markers
+    // were visible in print and confusing. Headings keep their slug `id`
+    // from rehype-slug so ToC scroll-to-anchor still works.
     .use(collectHeadingsPlugin(headings))
     .use(rehypeStringify);
   const file = await processor.process(body);

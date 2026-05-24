@@ -338,16 +338,5 @@ button:disabled {
   border-bottom-color: var(--color-line-strong);
 }
 
-.prose .heading-anchor {
-  color: var(--color-ink-muted);
-  text-decoration: none;
-  margin-left: 0.35em;
-  opacity: 0;
-  transition: opacity 120ms ease;
-  font-weight: 400;
-}
-.prose h2:hover .heading-anchor,
-.prose h3:hover .heading-anchor,
-.prose h4:hover .heading-anchor {
-  opacity: 0.6;
-}
+/* rehype-autolink-headings removed at build time — no `.heading-anchor`
+   elements in HTML, so no styling needed. Slug ids remain via rehype-slug. */
